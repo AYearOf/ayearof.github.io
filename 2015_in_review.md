@@ -1,59 +1,307 @@
 # 2015 In Review
-2015 was *A Year of Learning* with a strong focus on *learning music*.  
-Learning to play an instrument was only half the battle. 
+2015 was *A Year of Learning* with a strong focus on *learning music*. Learning to play an instrument was only half the battle. 
 
 ## Year-start Status
 My knowledge of music theory was close to null. I knew how to play quite a few 
 chords on the guitar (having played guitar and bass some 20 years ago), 
 but I had no idea what a chord even was. I could barely read the notes 
 of the treble clef and to top it off the system I learned those 20 years ago
-was the solfege system, *Do-Re-Mi*, whereas most of the music and resources 
-I had access to use the ??English *A-B-C* system.
+was the fixed-solfège system, *Do-Re-Mi*, whereas most of the music and resources 
+I had access to use the English *A-B-C* system.
 
-I wanted to have a better understanding of it.
+All in all, I wanted to have a better understanding of music and thus learning music theory 
+was a must.
 
-And learning I did. After having purchased off CraigsList an electric guitar, 
-an [Epiphone Les Paul]()  towards the end of 2014,  
-I have acquired a [Casio Privia PX-350]() digital piano with 88 weighted keys,
-and proceeded to take piano lessons at [??location]().
-
-
-
-## Year-end Status
-- Can read music almost fluently - I can read-play one staff, but not grand
-- Have a good understanding of theory fundamentals: scales, progressions, extended chords, cadences, roman system
-- Decent understanding of modes (what they are but not quite how to use them proficiently)
-- Composed a short classical piece
-- Learned a few songs, can play piano with two hands
-- Improved finger dexterity on guitar
+And learning I did. After having purchased off Craigslist an electric guitar, 
+an [Epiphone Les Paul](http://www.epiphone.com/Products/Les-Paul/Les-Paul-Standard-Plustop-PRO.aspx), 
+towards the end of 2014 I have acquired a [Casio Privia PX-350][px350] digital piano,
+and proceeded early in the year to take piano lessons with [Roby Deaton at Tempo School of Music][roby].  
+He's been a wonderful and patient teacher and if you're in the market for lessons, 
+I highly recommend him.
 
 ## What Went Well?
+- I can read music almost fluently - I can sight-read one staff, but not the grand staff together;
+- I have a good understanding of theory fundamentals: scales, progressions, extended chords, cadences, roman numeral system;
+- I have a decent understanding of modes (what they are but not quite how to use them proficiently);
+- I composed a [short classical piece][wlm] for the [Write Like Mozart][c-wlm] Coursera class;
+- I learned a few songs on the piano and could play piano with both hands;
+- I *re-learned* guitar basics: open string chords, barre cords, and then learned a host of techniques such as bending, 
+  double-stops, arpeggios, hammer-on/pull-ofs, palm and fret-muting (thank you [Rocksmith 2014][rocksmith]);
+- I have acquired a basic feel for rhythm, and I feel I could jam with other beginners,
+  provided I'm given somewhat of a formula to play (e.g. 12-bar blues in E).
+  
+## What Didn't Go So Well?
 
-- List of books
-- List of classes
-- List of online resources
-- Took classes
-- Apps 
+- Lack of time for practice;
+- Lack of structure in practice;
+- Still not a great understanding of classic forms: sonata, counterpoint;
+- Not doing very well with music analysis;
+- Hand coordination of piano is difficult when hands are playing at different speeds;
+- Initial fluency created higher expectations which ended up disappointing.
 
-## What Went Not-so-well?
-- Lack of time for practice
-- Lack of structure in practice
-- Still not a great understanding of classic forms: sonata, counterpoint.
-- Not doing very well with music analysis
-- Hand coordination of piano is difficult when hands are playing at different speeds
-- Initial fluency created higher expectations which ended up disappointing
-
-## What Went Bad?
+## What Went Really Not Well/Bad?
 - Due to lack of practice, I lost momentum and thus lost interest. 
-  Stopped playing piano in favor of guitar.
-- Know of, but don't know the notes in extended chords.
-- Not fluent beyond the major scale
-- None of my other personal projects saw activity in 2015 
+  Stopped playing piano in favor of guitar;
+- Know of extended chords (e.g. E6, C13, Gmaj9), but don't know their actual composition; 
+- Not fluent beyond the major, melodic minor, and pentatonic scales;
+- None of my other personal projects progressed in 2015.
 
-## Looking Forwad
-- Continue to practice both piano and guitar (Might be able to practice alongside one of the kids)
-- Should blog about the experience; other people might find it useful
-- Should have more structure
-- Explicit goals
-- Should find a way to make it social (small group - e.g. jam together or bring a partner along)
-- Lower expectations; need to space out activities more so that I don't become bored or distracted in the second half of the year
+## Looking Forward
+
+I intend to continue with this pursuit in 2016, but at a smaller scale: perhaps practice constantly, 
+but less frequently, or alternate between instruments and theory. Furthermore, since this has been
+and exercise in learning, the next year will have to build on top of it and use some of the lessons
+learned during 2015.
+
+- I will try to continue to practice both piano and guitar (might be able to practice alongside one of the kids);
+- I will blog about the experience - other people might find it useful;
+- I will create more structure in whatever I do next;
+- I will set explicit goals; perhaps incorporate the [SMART Goal System](https://en.wikipedia.org/wiki/SMART_criteria);
+- I should find a way to make it social (small group - e.g. jam together or bring a partner along);
+- I will lower my expectations of the final results; 
+- I will space out activities more so that I don't become bored or distracted in the second half of the year.
+
+
+## Resources I Used
+
+Below is a list of resources I used, somewhat in order of usefulness. 
+
+### The Internet and Apps
+
+This is not a surprise. We're living in at an excellent time to learn. 
+The resources are *plentiful* and more are created every day.
+
+On the downside, finding good resources is a trial in itself. For almost 
+any piece of music you want to learn, there are multiple variants - finding
+the best one, or at least the correct one, is on occasion a challenge.
+
+For both piano and guitar YouTube is a great resource, provided you tailor 
+your search accordingly, e.g. append "guitar lesson" if you're interested 
+in learning how to play a song.
+
+Resources for **piano**:
+- The ultimate resource for classical piano music sheet is 
+the International Music Score Library project aka [IMSLP](http://imslp.org)
+aka the Petrucci Music Library (no, not [that Petrucci](http://www.johnpetrucci.com));
+- The good folks at [/r/piano](https://www.reddit.com/r/piano) sub-Reddit - 
+  always willing to help and always with good advice; 
+  if you're looking to buy a digital piano, their [guide on choosing a keyboard](https://www.reddit.com/r/piano/wiki/faq#wiki_choosing_a_keyboard)
+  is truly great;
+- For away-from-piano training, [Tenuto](https://itunes.apple.com/us/app/tenuto/id459313476?mt=8&ign-mpt=uo%3D4),
+  by the folks at MusicTheory.net (see below), is a must-have: not only has it keyboard-related 
+  exercises (keyboard note, reverse, interval, and chord identification), but it also has
+  sight-reading and ear-training exercises.
+ 
+Resources for **guitar**:
+- If you're starting to learn guitar, I highly recommend [Justin Guitar's Beginner's Course](http://www.justinguitar.com/en/BC-000-BeginnersCourse.php);
+  his videos tutorials are great, the progression is patient, and best of all he teaches more 
+  than just how to form (aka finger) a certain chord: he teaches rhythm, variations, and even some music theory;
+- For learning songs, the main goto site is [Ultimate Guitar](https://www.ultimate-guitar.com), or UG for short;
+  to be honest, I don't recommend it, except as a sort of back-up resource or to double-check on things - 
+  the quality of their tabs vary, although they tend to 
+  be on the better side, but the site is slow and ad-laden;
+- Instead, [Songsterr](http://www.songsterr.com) is a cleaner and nicer version of UG;
+  they take tabs and package them with a nice player that you can play alongside with, 
+  and includes multiple guitar tracks, bass, and drums; it has only one version of a song
+  but the Songsterr folks work hard to make sure it's an accurate version; on the downside, it requires
+  Flash player be installed, and even Adobe is abandoning that;
+- Instead of both, you might find [Riffr](https://itunes.apple.com/us/app/riff/id324456320?mt=8), née Tabster,
+  a better interface - it has a clean UI and has support for multiple versions of songs (not necessarily a good thing); 
+  it's iOS only, but I'm sure there's a similar app for Android;
+- Instead of any of the above, give [Rocksmith][rocksmith] a chance; 
+  it is a video game, available for multiple platforms (XBox, PS, PC, Mac), but unlike
+  the simulated guitar playing from Guitar Hero or Rock Band, you're using your actual guitar -
+  their engine does an incredible job of detecting what you play from individual notes to complex chords;
+  it has lessons from beginner to advanced, mini-games to help you with the techniques (string bends, 
+  slides, tremolo picking, chords, etc), it can teach you songs and it adapts their complexity to your playing level
+  (from one-note at a time to eventually full chords and complex slides and bends),
+  and finally, and this I truly treasured later on, a [session mode](http://www.youtube.com/watch?v=QHqhrLdk3TI) aka jam session mode,
+  in which a "robotic" band plays alongside you in various genres and at various complexities
+  (from pop to blues to somewhat complex prog) - you serious have to [watch the video](http://www.youtube.com/watch?v=QHqhrLdk3TI) 
+  to see how cool it is; on top of that, there is a large community of custom-made songs 
+  at [CustomsForge.com](http://customsforge.com/); 
+  anyway, Rocksmith has done wonders, more than any other entry on this list, to keep me engaged 
+  and on track with both my practice (those mini-games are fun!) and my learning - cannot recommend it highly enough; 
+- The above-mentioned [Tenuto](https://itunes.apple.com/us/app/tenuto/id459313476?mt=8&ign-mpt=uo%3D4)
+  is a wonderful app for those away-from-the-guitar times, for it has exercises
+  for fretboard note memorization and chord identification; it also has
+  sight-reading and ear-training exercises, which is something any musician should work on;
+- Both [ChordBank](https://itunes.apple.com/us/app/chordbank-guitar-chords-tuner/id397602509?mt=8) 
+  and [Guitar Master](https://itunes.apple.com/us/app/guitar-master-free-tuner-chords/id723205500?mt=8) have
+  proven extremely useful to me - they are reference apps that give you a library of chords,
+  including suggested fingering, but also all scales for a given root note;
+  I'll give a slight nod to the latter for it also has a built-in
+  metronome as well as different styles of drum loops, but as you move on,
+  you should probably get a more advanced metronome anyway;
+- One of the exercises Justin's Guitar recommends is the one-minute chord changes exercise, 
+  that is changing between two chords as many times as you can while still making sure they
+  sound through and clear; they have even [developed an app](https://itunes.apple.com/us/app/one-minute-changes/id778908544?mt=8)
+  to help with tracking your progress; of course a simple spreadsheet would do just fine;
+- Finally, a shout to the nice folks at [/r/Guitar](https://www.reddit.com/r/guitar), 
+  [/r/LearnGuitar](https://www.reddit.com/r/LearnGuitar), and [/r/GuitarLessons](https://www.reddit.com/r/guitarlessons) 
+  for kind and useful advice;
+- I'd be remiss if I didn't mention the YouTube channel of Marty Schwartz aka [MartyzSongs](https://www.youtube.com/user/martyzsongs) - 
+  especially for learning songs, but also for progressing beyond begginer level on guitar techniques.
+
+
+Resources for **music theory**:
+- [MusicTheory.net](http://www.musictheory.net) is truly the best resource for beginners;
+  their lessons start with the basics: staff, note duration, meters, and go up through 
+  scales, key signatures, chords, roman numeral analysis, inversions, progressions, 
+  and even analysis of three music pieces; you can do it all online for free, 
+  but do yourself a favor and buy their [Theory Lessons](https://itunes.apple.com/us/app/theory-lessons/id493157418?mt=8&ign-mpt=uo%3D4) app - 
+  it's a great offline version of the main site course, with progress tracking, and also supports the
+  wonderful work they've done with the site;
+- [/r/MusicTheory](https://www.reddit.com/r/musictheory/) is a sub-Reddit filled 
+  with incredibly knowledgeable people, but I think it pays to know a little bit 
+  of the basics first so that you maximize your return by formulating intelligent
+  questions; by the way, they recommend [MusicTheory.net](http://www.musictheory.net) too
+  
+
+There are few apps I have used on an almost daily basis:
+- As mentioned above, I have found MusicTheory.net's [Tenuto](https://itunes.apple.com/us/app/tenuto/id459313476?mt=8&ign-mpt=uo%3D4)
+  and [Theory Lessons](https://itunes.apple.com/us/app/theory-lessons/id493157418?mt=8&ign-mpt=uo%3D4) 
+  to be invaluable, in both learning and in practice;
+- A metronome is essential to practice as it helps develop a sense of rhythm -
+  this helped me a lot as I am somewhat rhythmically challenged; any metronome will do,
+  and the App Store is full of free ones - including the metronome build into 
+  the [Guitar Master](https://itunes.apple.com/us/app/guitar-master-free-tuner-chords/id723205500?mt=8) app mentioned above, 
+  but I found [Pro Metronome](https://itunes.apple.com/us/app/pro-metronome-tempo-keeping/id477960671?mt=8) to be 
+  a step above, as it allows some configurations that are useful in practice: multiple subdivisions 
+  (so you can do 8th notes, or swing rhythms), polyrhythms, practice mode with warm-up to target BPM,
+  playlists; in addition to typical clinical metronome clicks and dings, it also has support for drum-like tones,
+  which I can recommend, particularly when playing guitar: I found it more difficult initially to
+  move from a metronome track to a drum loop, so practicing *as early as possible* with a drum-like tone helps a lot.
+  
+To round up the app section, there are a few more helpful apps that I use occasionally:
+- [Capo 3](https://itunes.apple.com/us/app/capo-3-slow-down-detect-chords/id696977615?mt=12) - slows down 
+  songs while maintaining pitch constant to help learn songs or sections of the songs;
+- [JamUp](https://itunes.apple.com/us/app/jamup-guitar-amps-multi-effects/id449820506?mt=8) as 
+  an app and pedal simulator; used in combination with an [iRig Pro](http://www.ikmultimedia.com/products/irigpro/)
+  served the beginner in me well; I still use it, for its ratio of effects to size (iRig + iPhone),
+  beats the heck out of having to carry pedals and amps around the house when I want to practice
+  elsewhere from my main area;
+- GarageBand for recording and mixing; furthermore, both the Mac and the iOS versions, 
+  have a pretty decent selection of drum styles, but in case
+  you want to create your own drum tracks, you will be looking for a *drum machine*; again, 
+  the app store does not fail to disappoint; you might research your own and play with many,
+  but ultimately I found [Patterning](https://itunes.apple.com/us/app/patterning-drum-machine/id976690555?mt=8)
+  to be the best in its class.
+
+
+### Online classes
+
+This could've been just as well under the internet section above, but I thought it merits
+its own for it requires a deeper commitment, usually 4 to 6 weeks, and the quality of the material
+is considerably higher (not to cast any aspersion on any of the resources mentioned earlier).   
+The classes, part of a trend/approach called MOOC - Massive Open Online Courses, are from 
+some of the most prestigious universities in the field. For example,
+the Berklee College of Music, the largest independent college of contemporary music in the world,
+and one of the most well-known and respected schools, has quite a number of classes 
+targetted specifically towards online learning; all MOOC feature high-quality video productions,
+the teachers are engaging, and the discussion forums are supportive and filled with knowledgeable people.       
+
+Of the courses I've taken, I can highly recommend taking the following:
+- [Berklee's Introduction to Guitar](https://www.coursera.org/learn/guitar) - is a good starter too; 
+  I'd go first with [Justin Guitar's Beginner's Course](http://www.justinguitar.com/en/BC-000-BeginnersCourse.php),
+  but it's nice to have an alternative that is a bit more strict rather than self-paced,
+  and that offers some benefit in that you need to record your playing of specific chords
+  and are later evaluated by your classmates;
+- The University of Edinburgh's [Fundamentals of Music Theory](https://www.coursera.org/course/musictheory) is 
+  a good class to sediment what was learned on [MusicTheory.net](http://www.musictheory.net); it is still a bit challenging,
+  but I do think that the repetition gives you a more solid understanding; 
+- For a more advanced, honestly challenging class, take National University of Singapore's
+  [Write Like Mozart: An Introduction to Classical Music Composition](https://www.coursera.org/course/classicalcomp);
+  it pushes both your creativity and understanding to the limit;
+- From Berklee still, you might find interesting the courses on [Songwriting](https://www.coursera.org/learn/songwriting),
+  addressing the lyrical part of writing a song, but also giving an interesting framework on how to tell a story through music,
+  and the [Introduction to Music Production](https://www.coursera.org/learn/music-production) to have a better understanding
+  of the process of recording and mastering a song;
+- For the fun of it, take the two History of Rock classes [Part 1](https://www.coursera.org/learn/history-of-rock) and 
+  [Rock 2](https://www.coursera.org/learn/history-of-rock-2) - I thought I knew a lot about rock and roll,
+  but John Covach, who pretty much made the serious study of pop music in academia an actual thing,
+  takes it up a notch: from early 1900s and all the way into the 1990s, Mr Covach is a fountain of knowledge,
+  and he does present the subject with an enthusiasm that clearly shows his love for it; trust me,
+  you'll do yourself a disservice not taking this class - it's an open format so you really have no dead-lines,
+  don't really have to take quizzes, or do any homework - just sit back and enjoy;
+- Once you've done that, follow it up with two more of his classes: [The Music of the Beatles](https://www.coursera.org/learn/the-beatles)
+  and [The Music of the Rolling Stones, 1962-1974](https://www.coursera.org/learn/rolling-stones) - same enthusiasm, 
+  but in both classes with a more in-depth look at lyrical content and song structure and format; 
+- Least but not last, taking Yale's [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic)
+  gave me a deeper and much-needed context for the piano pieces I wanted to learn and practice;
+  to be honest, I didn't even like classical music before taking this class, but now that I understand it,
+  I find myself listening to it and appreciating it more and more; beyond that, it made me a better player,
+  and dare-I-say composer, nay song-maker, because it taught me the value of dynamics, motifs,
+  structure, and theme development; on a very personal level, it increased my enjoyment of the music
+  I typically listen to (metal, if curious), because I have learned to recognize and appreciate
+  the musicians' use of those motifs, and dynamics, and theme developments.  
+
+
+### Books
+
+Although the online resources are truly great, I found on occasion, that the carefully 
+considered nature of a book, backed with a typically more consistent quality throughout,
+tends to help the learning process a lot.
+
+Below are books I have used, sometimes only partially, or only for a little while,
+to help with the learning process.
+
+All the links are to Amazon (and if you like this post I would appreciate buying them 
+by clicking on these links - I get a very small referral amount), but I encourage you 
+to check with your local library. Even if they don't have specific books in their inventory,
+they can always order them through the Interlibrary Load Service, or ILS, from any other
+library in the country. On my end, I want to give a shout out to the 
+[Houston Public Library](http://houstonlibrary.org) in whose 782 and 787 sections (where 
+music books are) I was on occasion lost for up to an hour.
+
+
+For **music theory**:
+- [Edly's Music Theory for Practical People](http://www.amazon.com/Edlys-Music-Theory-Practical-People/dp/0966161661),
+  easy to pick up and mostly easy to understand; a more verbose alternative to [MusicTheory.net](http://www.musictheory.net);
+- Kostka & Payne's [Tonal Harmony](http://www.amazon.com/Tonal-Harmony-Stefan-Kostka/dp/0078025141/), 
+  a more college-like book, it's dense, deep, and it does help if you have a piano while you study it 
+  (even if it's just a piano app on your mobile device); probably not a beginner book,
+  but I keep coming back to it one bit a time for more and more knowledge;
+- Burkhart's [Anthology for Musical Analysis](http://www.amazon.com/Anthology-Musical-Analysis-Charles-Burkhart/dp/0495916072/),
+  an accidental purchase, for I thought it will teach me how to do music analysis, 
+  it turned out to be instead a collection of pieces with not analysis directions whatsoever;
+  I think it is targeted towards classroom use, to be used under the direction of a teacher;
+  nevertheless, I plan on using it myself and have my analysis verified and enriched
+  by the fine folks at [/r/MusicTheory](https://www.reddit.com/r/musictheory/).
+
+For **guitar**, mostly blues (but if you took John Covach's classes you know it's really the fundament of rock):
+- [Complete Rhythm Guitar Guide for Blues Bands](http://www.amazon.com/Complete-Rhythm-Guitar-Guide-Blues/dp/1574241389/),
+  one of the few guitar rhythm books out there;
+- [Blues Turnarounds: A Compendium of Patterns & Phrases for Guitar](http://www.amazon.com/Blues-Turnarounds-Compendium-Patterns-Phrases/dp/0634026224/),
+  seems to be more finger-picking oriented, but you'll find it very useful in practice;
+- [Guitar Aerobics: A 52-Week, One-lick-per-day Workout Program for Developing, Improving and Maintaining Guitar Technique](http://www.amazon.com/Guitar-Aerobics-One-lick-per-day-Developing-Maintaining/dp/1423414357/) - 
+  I think this is my new favorite: it has one new exercise per day, in seven different areas,
+  from licks, to bends, to arpeggios, to rhythm; good for developing a systematic approach to practice;
+
+For **piano**, *Alfred's Adult All-In-One Courses* in three parts, 
+[Part 1](http://www.amazon.com/Adult-All-In-One-Course-Lesson-Theory-Technic-Level/dp/0882848186/),
+[Part 2](http://www.amazon.com/Adult-All---one-Course-Alfreds/dp/0882849956/),
+[Part 3](http://www.amazon.com/Alfreds-Basic-Adult-All-Course/dp/0739000683/),
+seems to be one of the best resources, aside from a [proper piano teacher][roby], 
+in learning to play piano as an adult.  
+As a practice companion, the complete book of [Scales, Chords, Arpeggios and Cadences](http://www.amazon.com/Scales-Chords-Arpeggios-Cadences-Complete/dp/0739003682/)
+has been really useful, too. I used to go through the famed [Hannon exercises](http://www.amazon.com/Hanon-Virtuoso-Exercises-Complete-Schirmers/dp/0793525446/) for warmup,
+and while I think they were very helpful in the beginning, I later prefered to just warm-up using one of the keys
+from the scale book and playing through the two-page exercise of that scale instead; it seemed to better combine
+practicing dexterity with learning new keys, scales, and cadences.  
+
+I feel that the Alfred books provide a good selection of songs to learn, yet I was looking 
+for a book that gave me a bit more single-minded purpose. I found it in Allan Small's
+[42 Famous Classics for Easy Piano](http://www.amazon.com/42-Famous-Classics-Easy-Piano/dp/0739012762).
+
+A book of Disney songs would probably have scored my some massive cool points from my daughters,
+but I found the songs to be too difficult at my level.     
+
+So there you go, this was my year, and I sincerely hope reading this far has provided
+you with at least one useful piece of information.
+
+[px350]: http://www.casio.com/products/Digital_Pianos_%26_Keyboards/Privia_Digital_Pianos/PX-350MBK/
+[roby]: http://www.temposchoolofmusic.com/piano/piano-teacher-roby
+[wlm]: https://soundcloud.com/philipmat/wlm-final-project
+[c-wlm]: https://www.coursera.org/course/classicalcomp
+[rocksmith]: http://rocksmith.ubi.com/rocksmith/en-US/home/index.aspx

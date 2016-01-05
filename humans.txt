@@ -1,0 +1,15 @@
+---
+layout: null
+---
+/* TEAM */
+	Janitor: Philip Mateescu
+	Contact: hello [at] philipm.at
+	Twitter: @philipmatix
+	From: Houston, TX
+
+/* SITE */
+	Last update: {{ site.time | date: "%a, %b %d %Y" }}
+
+	Language: English
+	Doctype: HTML5
+	Software: MacVim, jekyll

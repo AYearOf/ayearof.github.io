@@ -4,7 +4,7 @@ url: http://ayearof.xyz
 
 markdown: kramdown
 highlighter: rouge
-permalink: /news/:year/:month/:day/:title/
+permalink: /:year/:title.html
 excerpt_separator: ""
 
 # gauges_id: 503c5af6613f5d0f19000027

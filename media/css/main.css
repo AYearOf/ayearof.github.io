@@ -8,54 +8,29 @@ body {
 
 a, a:active {
 	text-decoration: none;
-	color: #586e75;
+	color: #39c;
 }
 a:hover { text-decoration: underline; }
-a:visited { color: #586e75; }
+a:visited { color: #39f; }
 
-/*
 #title {
 	clear: both;
-	height: 20px;
 	margin: 0;
-	padding: 0;
+	padding: 0 0 0 20px;
 	background-color: #444;
+    color: #fcfcfc;
+    border: 1px solid #444;
 }
-#title h1 {
-	float: left;
-	margin: 20px 0 0 80px;
-	-webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px;
-	-moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px;
-	border-bottom-left-radius: 8px; border-bottom-right-radius: 8px;
-
-	padding: 0 30px 6px 30px;
-	color: #fcfcfc;
-	background-color: #444;
-	font-size: 150%;
-	font-weight: bold;
-	text-align: center;
-	width: 100px;
+#title h1 small {
+    color: #777;
+    font-weight: normal;
+    font-size: 1rem;
+    font-style: italic;
 }
-#title h1 a { color: #fcfcfc; }
-#title ul a { color: #444; }
-#title ul {
-	position: absolute;
-	left: 240px;
-	font-weight: bold;
-	margin: 7px 2em 0 0;
-	-webkit-border-top-left-radius: 8px;  -webkit-border-top-right-radius: 8px;
-	-moz-border-radius-topleft: 8px; -moz-border-radius-topright: 8px;
-	border-top-left-radius: 8px; border-top-right-radius: 8px;
-	padding: 0 1em 0.2em 1em;
-	background-color: #fcfcfc;
-	list-style-type: none;
-}
-#title UL LI { 
-	display: inline;
-	padding: 0.5em;
+#title a {
+    color: #fcfcfc;
 }
 
-*/
 #content {
 	margin-top: 40px;
 	padding-left: 80px;
@@ -73,18 +48,18 @@ article p, article blockquote {
 article {
 	margin-bottom: 100px;
 }
-
 article h1 {
 	font-size: 2em;
 	margin-bottom: 0.5em;
 }
-
 .post .date { 
 	float: none;
 	width: 100%;
-	color: #d2d2d2;
+	color: gray;
 }
-
+.post .title {
+    margin-top: 10px;
+}
 pre code {
 	border: none;
 	display: block;

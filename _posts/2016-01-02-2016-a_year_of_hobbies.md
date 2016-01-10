@@ -1,6 +1,6 @@
 ---
+title: 2016 - A Year of Hobbies
 ---
-# 2016 - A Year of Hobbies
 
 In hindsight, deciding on what the next year was going to be midway 
 through 2015 might have contributed a good deal of distraction and 

@@ -1,6 +1,6 @@
 ---
+title: Choice of Robotics Sets
 ---
-# Choice of Robotics Sets
 
 The first choice I had to make in pursuing my [Year or Hobbies: Robotics][hobbies2016] 
 was which direction to go in? The choices are threefold: already built robots — 
@@ -8,6 +8,7 @@ leaning more towards programming (eg OWI) robotics kits (Mindstorms, Vex),
 or the free-form route of Arduino (or RaspberryPi). 
 
 Here are my constraints:
+
 - Multi-function: if they only did one thing, 
   it would be pretty boring no matter how well they do that one thing;
 - Programmable: I want my labyrinth solver to figure out the path by itself;

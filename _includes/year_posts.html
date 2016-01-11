@@ -1,0 +1,10 @@
+<h2>Posts in {{ include.year }}:</h2>
+
+<ul>
+{% for p in site.posts %}
+    {% assign year = p.date | date: "%Y" %}
+    {% if year == include.year %}
+    <li>{{ p.date | date_to_string }}: <a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

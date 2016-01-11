@@ -4,7 +4,7 @@ title: Choice of Robotics Sets
 
 The first choice I had to make in pursuing my [Year or Hobbies: Robotics][hobbies2016] 
 was which direction to go in? The choices are threefold: already built robots — 
-leaning more towards programming (eg OWI) robotics kits (Mindstorms, Vex), 
+leaning more towards programming (eg OWI) robotics kits (Mindstorms, VEX), 
 or the free-form route of Arduino (or RaspberryPi). 
 
 Here are my constraints:
@@ -20,19 +20,20 @@ Here are my constraints:
   (and programming is already a must-have)
 
 ## Already Built Robots
-Great choice if the intent is to lean more towards the programming side. 
-Here's a great example: 
-![Ozobot Bit]
-[Ozobot Bit](http://ozobot.com/products/ozobot-bit) looks like a blast 
-if you want to built a follow-the-line bot.
+Great choice if the intent is to lean more towards the controlling side.
+Some offer programming possibilities. 
 
-[OWI's Robots](http://www.owirobot.com) are also great resources at great prices: 
-from the robotic arm — probably the closest you'll come to true industrial robots — 
-to the solar kits, they're all excellent. 
+For example, [Ozobot Bit](http://ozobot.com/products/ozobot-bit) looks like a blast 
+if you want to built a follow-the-line bot.
+ 
+[![Ozobot Bit](/assets/ozobit-640.jpg)](http://ozobot.com/products/ozobot-bit)
+
+[OWI Robotics](http://www.owirobot.com) also seem to have great resources at great prices: 
+from the robotic arm to the solar kits, they're all getting excellent reviews. 
 
 On the downside, their fixed shape constrains how much you can do with them. 
-It might be difficult to build a roaming robot out of the fixed robotic arm. 
-But maybe that's just my imagination lacking.
+It might be difficult to build a roaming robot out of the fixed robotic arm, 
+but maybe that's just my imagination lacking.
 
 # Robotics Kits
 
@@ -40,17 +41,22 @@ The beginner robotics systems have long been dominated by [LEGO Mindstorms][ev3]
 In this world, [VEX Robotics][vex] is a new entrant, 
 but they did do a great job building an environment to rival LEGO’s. 
 They have not one, but three levels of sets: [VEX IQ][vexiq], 
-[VEX EDR][vexedr], and [VEX PRO][vexpro].
+[VEX EDR][vexedr], and VEX PRO.
+
+[![LEGO Mindstorms EV3](/assets/ev3.jpg)][ev3]
 
 [VEX IQ][vexiq] seems a direct competitor to the [LEGO Windstorms EV3][ev3] set. 
 Both feature similar looking plastic pieces, with wheels, axles, etc. The price 
 of the base kit is below that of the EV3, but it's not the only items that makes
 it attractive as a starter kit. 
+[![VEX IQ](http://content.vexrobotics.com/images/landing/VEX_IQ_Tile_5.png)][vexiq]
 
-[VEX EDR] is a step-up version, with a great deal of configuration options, 
+[VEX EDR][vexedr] is a step-up version, with a great deal of configuration options, 
 sporting metal structural parts, and a multitude of sensors, motors, gears,
 and wheel. At least to me, the kits feels obviously aimed towards serious 
 hobbyists, higher education, and FRC (FIRST Robot Competition) teams.
+
+[![VEX EDR](http://content.vexrobotics.com/images/landing/VEX_EDR_Tile_4.png)][vexedr]
 
 I'll be writing a separate post to compare VEX IQ and EV3, 
 but I would have *no problem* recommending the VEX IQ over EV3 
@@ -70,7 +76,7 @@ should [yield some fun builds][robots].
 ## DIY - All of It
 
 At the opposite end of the already built robots stands the world of Arduino and, 
-to a larger extent, RaspberryPi (it seems Arduino is a [better choice for task-oriented systems]][arduino-vs-rpi], 
+to a larger extent, RaspberryPi (it seems Arduino is a [better choice for task-oriented systems][arduino-vs-rpi], 
 while RaspberryPi for longer-running systems).
 
 And that's a *beautiful* thing. 
@@ -115,10 +121,10 @@ due to its lack of complexity, programmability, and extensibility
 [r3ptar]: http://www.lego.com/en-us/mindstorms/build-a-robot/r3ptar
 [line-robot]: /2016/line_following_robot.html
 [line-robot-traffic]: /2016/line_following_robot-version_2.html
-[ev3]: http://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313?p=31313&track=checkprice
-[vexiq]: http://www.vexrobotics.com/
+[ev3]: http://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313
+[vex]: http://www.vexrobotics.com/
 [vexiq]: http://www.vexrobotics.com/vexiq?ref=hometile
 [vexedr]: http://www.vexrobotics.com/vexedr?ref=hometile
 [robotc]: http://www.robotc.net/download/vexrobotics/
 [differences]: http://blog.alawrence.net/?p=253
-[robots]: /2016/list_of_planned_robots.html
+[robots]: /2016/list_of_goals.html

@@ -5,7 +5,11 @@ body {
 	font: normal 14px/1.5 "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 	margin: 0; padding: 0; 
 }
-
+/* undoing the default browser style of 1.17em*/ 
+:matches(article, aside, nav, section) :matches(article, aside, nav, section) h1
+{
+    font-size: 2em;
+}
 a, a:active {
 	text-decoration: none;
 	color: #39c;

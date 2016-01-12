@@ -2,11 +2,16 @@
 title: Not found
 layout: default
 ---
-<h1>Sorry!</h1>
+<h1>Sorry, 404 times!</h1>
 <h2>It's all my fault. I probably did something wrong. Again.</h2>
-<p>I promise I'll fix it, meanwhile here are all my posts. I hope you'll find what you were looking for.</p>
+<p>I promise I'll fix it - please be kind and 
+    <a href="mailto:hello@philipm.at?subject=Broken%20link&body=Hi%2C%20I%20got%20a%20broken%20link%20when%20I%20was%20trying%20to%20click/tap%20on%20%3F%3F%3F%20%28please%2C%20hit%20the%20back%20button%20in%20your%20browser%20and%20see%20what%20you%20were%20trying%20to%20do%20-%20thanks%21%29">send me an email</a>
+    or 
+    <a href="https://github.com/AYearOf/ayearof.github.io/issues">open up an issue</a>; 
+    meanwhile here are all my posts. I hope you'll find what you were looking for.
+</p>
 <div class="archive">
-	{% for post in site.posts %}
+{% for post in site.posts %}
 	{% include arc_post.html %}
 	{% assign last_date = post.date %}
 {% endfor %}

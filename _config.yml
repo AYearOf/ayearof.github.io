@@ -3,7 +3,7 @@ description: Spend a whole year doing something you love!
 url: http://ayearof.xyz
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: /:year/:title.html
 excerpt_separator: ""
 

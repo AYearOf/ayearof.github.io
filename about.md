@@ -4,7 +4,7 @@ title: About
 ---
 
 A few years ago, in 2013 to be precise, 
-[I](http://philipm.at/) have decided to give each year of my life 
+[I](http://philipm.at/about.html) have decided to give each year of my life 
 a specific theme and I to spend my spare time 
 that year pursuing that theme.
 
@@ -14,7 +14,7 @@ that year pursuing that theme.
 every month I had an adventure, something I have not done before.  
 Some were insane: [Rugged Maniac mud/obstacle run][rugged] in 40 degrees weather with 
 crazy wind-chill; some were beautiful: sunrise on Haleakalā in Maui;
-some were head-scratching fun: [Newport Pig Cooking Contest]; 
+some were head-scratching fun: [Newport Pig Cooking Contest][pig]; 
 some were exhausting: [5150 Galveston Triathlon][gal5150]; 
 either way, something new happened every month, though, 
 perhaps like most adventures happen anyway, most were not 
@@ -22,7 +22,10 @@ planned.
 
 From there on, I refined it and decided to have each year
 be a generic theme with a more specific focus, and thus
-**2015** was a [year of learning, with emphasis on music][2015].  
+**2015** was **a year of learning, with emphasis on music**.  
+
+More refinement followed, and from the [lessons learned in 2015][2015],
+this blog was born. 
 
 *Why* am I doing this? I honestly don't know, 
 but it does seem to make my life both more interesting

@@ -41,11 +41,15 @@ a:visited { color: #39f; }
 	padding-bottom: 40px;
 	min-height: 130px;
 }
+section#content {
+    	max-width: 550px;
+	padding-right: 100px;
+}
 article { margin-bottom: 100px; }
 article h1, article h2, article h3, article h4, article h5, article h6,
 article p, article blockquote, article ul, article img {
 	max-width: 550px;
-	padding-right: 100px;
+	/*padding-right: 100px;*/
 }
 article h1 {
 	font-size: 2em;

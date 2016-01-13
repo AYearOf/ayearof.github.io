@@ -55,6 +55,16 @@ article h1 {
 	font-size: 2em;
 	margin-bottom: 0.5em;
 }
+article table {
+    border-collapse: collapse;
+    font-size: smaller;
+}
+article table th, article table td {
+    border: 1px solid lightgray;
+}
+article table tr td:first-child {
+    white-space: nowrap;
+}
 article footer.feedback {
     color: #777;
     max-width: 550px;

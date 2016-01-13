@@ -2,6 +2,19 @@
 title: Choice of Robotics Sets
 ---
 
+Let's get something clear right from the start: I'm talking
+about *toy or hobby robots*. 
+
+I don't mean that derogatory, 
+but I'm not talking about building or controlling
+industrial or even professional robots. 
+The level of structural, mechanical and electrical engineering
+knowledge required by [those kinds of robots][truerobots] are beyond
+the pursuit of hobbyists and more into career territory.
+And they aren't cheap either.
+
+Moving on. 
+
 The first choice I had to make in pursuing my [Year or Hobbies: Robotics][hobbies2016] 
 was which direction to go in? The choices are threefold: already built robots — 
 leaning more towards programming (eg OWI) robotics kits (Mindstorms, VEX), 
@@ -128,3 +141,4 @@ due to its lack of complexity, programmability, and extensibility
 [robotc]: http://www.robotc.net/download/vexrobotics/
 [differences]: http://blog.alawrence.net/?p=253
 [robots]: /2016/list_of_goals.html
+[truerobots]: https://www.quora.com/How-do-I-learn-robotics

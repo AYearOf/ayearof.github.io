@@ -2,7 +2,6 @@
 layout: post
 title: Mindstorms EV3 vs VEX IQ
 ---
-
 Let me give you the TL;DR right off the bat: 
 if you plan on doing robotics, 
 buy the [VEX IQ Super Kit](http://www.vexrobotics.com/vexiq/products/kits-bundles/super-kit.html). 
@@ -294,8 +293,8 @@ but the kits used are considerably above the EV3 and IQ levels.
 [tiva]: http://www.vexrobotics.com/brain-g.html
 [roboticssets]: {% post_url 2016-01-05-choice-of-robotics-sets %}
 [hassen]: http://www.teamhassenplug.org/ev3_vexiq.html
-[tekvolvo]: http://www.amazon.com/LEGO-Technic-42030-Remote-Controlled/dp/B00HR1M8KK/
-[tekcontainer]: http://www.amazon.com/LEGO-TECHNIC-Container-Truck-8052/dp/B003F7WOFO/ref=sr_1_14?s=toys-and-games&ie=UTF8&qid=1452714053&sr=1-14
+[tekvolvo]: http://www.amazon.com/LEGO-Technic-42030-Remote-Controlled/dp/B00HR1M8KK/?{{ site.amazontag }}
+[tekcontainer]: http://www.amazon.com/LEGO-TECHNIC-Container-Truck-8052/dp/B003F7WOFO/?{{ site.amazontag }}
 [multiplex]: http://www.mindsensors.com/ev3-and-nxt/21-multiplexer-for-nxtev3-motors
 [mindsensorsev3]: http://www.mindsensors.com/37-ev3-and-nxt
 [robotshopev3]: http://www.robotshop.com/en/catalogsearch/result/?q=ev3&order=stats_sales_order_count&dir=desc

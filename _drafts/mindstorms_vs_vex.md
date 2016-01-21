@@ -98,6 +98,8 @@ For beginners, those kind of tips can save a lot of time and frustration.
 
 ## Structural
 
+!!! Thinner pieces in IQ allow for bending but also require more bracing.
+
 I haven't *actually* tried the IQ set, but people with experience with both kits say
 that it's **easier to build** (or rebuild) with VEX IQ. 
 For one, it seems to have some larger plates and beams which should make it easier
@@ -128,13 +130,17 @@ serve as the third, non-powered wheel.
 
 ![EV3 Education - Ball Wheel](/assets/ev3-ball-wheel.jpg)
 
+### Gears
+[Omni-directional](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2536.html)
+[Sprockets and Chain](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html)
+[Differential](http://www.vexrobotics.com/vexiq/products/accessories/motion/differential-and-bevel-gear-pack.html)
+[Rack, Worms, Slides](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2532.html)
+
+### Wheels
+
 ## Electronics
 
-### Sensors
-VEX IQ comes with **more sensors** than the Home version of EV3 
-and about **on par** with the Education version.  
-I cannot comment on the quality of the sensors -- 
-I'm going to assume they are about the same.
+TL;DR
 
 ### Brick
 
@@ -157,6 +163,10 @@ The [EV3 brick][ev3brick] uses a much faster
 the same as the Nintendo DS, NEST Thermostat, or [BeagleBone Black](http://www.amazon.com/BeagleBone-Black-Single-Computer-Development/dp/B00LC1924G/?{{ site.amazontag }}) --
 with 16 MB of Flash memory, 64 MB of RAM, and running at 300MHz. This has some exciting
 ramifications, which we'll talk about in the Software section.
+
+
+EV3 Brick allows display of images, can play sounds, and change LED color.
+It's not backlit. IQ is. 
 
 From a connectivity perspective, the EV3 is better equipped 
 out of the box: both use USB to upload programs to the brick,
@@ -188,8 +198,8 @@ the large EV3 and VEX IQ motors are lower rpm but higher torque.
 | Stall torque                     | 40 N/cm = 60 oz/in | 12 N/cm = 17 oz/in  | 41.4 N/cm | 
 | Stall current                    | 1.8A               | 780 mA              | [1.1 @ 7.2V](http://www.vexiqforum.com/forum/main-category/main-forum/9393-validating-component-goodness-for-reuse-next-year?p=9864#post9864)| 
 | Sample/Command rate              | 1 kHz (3)          | 1 kHz (3)           | 3 kHZ     | 
-| Mechanical Power @ 4.5V, 9V, 12V | 0.43W, 1.9W, 2.77W | 0.17W, 1.15W, 1.73W | 1.4W @ ?  | 
-| Output power @ 4.5V, 9V, 12V     | 3.1W, 6.21W, 8.28W | 1.57W, 3.33W, 4.44W | ?         | 
+| Mechanical Power @ 4.5V, 9V, 12V | 0.43W, 1.9W, 2.77W | 0.17W, 1.15W, 1.73W | ?         | 
+| Output power @ 4.5V, 9V, 12V     | 3.1W, 6.21W, 8.28W | 1.57W, 3.33W, 4.44W | 1.4W @ ?  | 
 | Weight                           | 82g                | 39g                 | ?         | 
 | Size (4)                         | Large              | Medium              | Small     | 
 | Price                            | $25                | $20                 | $20       | 
@@ -209,6 +219,104 @@ Notes:
   it can be part of your structure or structural reinforcement.
 
 Thanks to Philippe "Philo" Hurbain for a lot of the [research into Technic motors][technicmotorcomparison]!
+### Sensors
+VEX IQ comes with **more sensors** than the Home version of EV3 
+and about **on par** with the Education version.  
+
+**NEED MORE ON SENSORS**
+
+### Gyro
+
+[VEX IQ Gyro](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3014.html)
+[EV3 Gyro sensor #45505](http://shop.lego.com/en-US/EV3-Gyro-Sensor-45505)
+
+![EV3 Gyro vs VEX IQ Gyro](/assets/ev3-iq-gyro.jpg)
+
+| Parameter   | EV3 #45505         | VEX IQ  |
+|-------------|--------------------|---------|
+| Sample rate | 1 kHz              | 3 kHz   |
+| Accuracy    | +/- 3 degrees      | ? (1)   |
+| Max output  | 440 degrees/second | 550 degrees/second |
+| Price       | $30                | $25     |
+
+- (1) drift - 1 deg/min http://www.vexiqforum.com/forum/main-category/official-answers-ask-the-vex-staff/7409-code-for-driver-control-program
+
+### Distance
+[VEX IQ Distance sensor](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3011.html)
+[EV3 Ultrasonic](http://shop.lego.com/en-US/EV3-Ultrasonic-Sensor-45504)
+[EV3 Infrared sensor](http://shop.lego.com/en-US/EV3-Infrared-Sensor-45509)
+4 signal channels, can receive IR remote commands
+[EV3 Infrared beacon](http://shop.lego.com/en-US/EV3-Infrared-Beacon-45508)
+
+![EV3 Distance vs VEX IQ distance](/assets/ev3-iq-distance.jpg)
+
+Issues with curved sufaces, cloth or carpet-like surfaces, smooth surfaces at skew angles, tiny angles.
+
+Bias towards one part due to the having a separate transmitter from receiver. 
+
+| Parameter   | EV3 Ultrasonic #45504   | EV3 Infrared #45509 | VEX IQ                 |
+|-------------|-------------------------|---------------------|------------------------|
+| Range       | 1-250 cm = 1-100 in     | 50-70 cm = 20       | 1-300cm = 1-120 in (1) | 
+| Accuracy    | +/- 1 cm = +/- 0.394 in | ?                   | ?                      |
+| Receive Mode| Yes                     | Yes (2)             | ?                      |
+| Price       | $30                     | $25                 | $25                    |
+
+- (1) although max distance seems to be 610mm in RobotC and 500mm in ModKit http://www.vexiqforum.com/forum/main-category/technical-discussion/1437-distance-sensor?p=1449#post1449
+- (2) - up to 2 meter = 6 feet distance from beacon
+
+### Color
+[7 colors in Education ref](https://shop.education.lego.com/legoed/en-US/catalog/product.jsp?productId=45506&isSimpleSearch=false&ProductLine=LEGO+MINDSTORMS+Education+EV3)
+[8 colors in Retail ref](http://shop.lego.com/en-US/EV3-Color-Sensor-45506)
+[vex iq color](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3012.html)
+
+VEX IQ 12 "simple colors" (same as touch led): red-violet, red, dark-orange, orange, dark yellow,
+yellow, lime green, green, blue-green, blue, dark blue, violet.
+- color hue
+- RGB - 256 levels each
+- ambient light level
+- sample rate?
+- $25
+
+EV3 black and white, or between blue, green, yellow, red, white and brown. Sample rate 1 kHz
+- $40
+
+
+### Touch/Bump
+[VEX IQ](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2677.html)
+- low force
+- 3 states: up, down, bumped
+- can attach things to it
+- $5
+
+
+[EV3]
+- pressed, released, single and multiple presses.
+- can attach cross-axle
+- $20
+
+
+### LED Signaling
+[Touch LED]()
+- touch sensor 
+- cannot attach things
+- 16 million color variations
+- on, off, blink rate
+- $10
+
+VEX Brick - 3 color, on, off, blink
+
+### Cables
+Proprietary
+
+http://shop.lego.com/en-US/EV3-Cable-Pack-45514
+- 7 cables (4 x 25 cm/10 in, 2 x 35 cm/14 in, 1 x 50 cm/20 in) - $15
+- extra long cables 3rd party: http://www.mindsensors.com/51-cables-connectors
+
+http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2780.html
+- 6 cables (2 x 20 cm, 2 x 30 cm, 1 x 40 cm, 1 x 60 cm) - $10
+- extra long cables available
+
+
 
 ### Third Party
 
@@ -270,6 +378,8 @@ going back to the NXT days; and there's even a [RobotC version for EV3](http://w
 Again, you have a full-blown version of Linux, 
 so pretty much anything you can do on Linux, yo can do on the brick.
 
+DataLog component.
+
 
 ### Design
 
@@ -295,14 +405,17 @@ LEGO has [FIRST LEGO League Jr](http://www.firstinspires.org/robotics/flljr),
 and [SuGO - LEGO Sumo](http://www.sugobot.com).
 
 VEX IQ has the [VEX IQ Challenge](http://www.robotevents.com/robot-competitions/vex-iq-challenge),
-but it also seems to be the kit of choice for middle and high-school competition.
+but it also seems to be the kit of choice for middle and high-school competition.   
+2015–2016's [Bank Shot challenge](http://www.vexrobotics.com/vexiq/competition/competition-resources)
+looks like a lot of fun.
 
 There are [more competitions](http://www.robotevents.com/robot-competitions),
-but the kits used are considerably above the EV3 and IQ levels.
+but the kits used seem considerably above the EV3 and IQ levels.
 
 ## Final Words
 
 W
+https://www.hexbug.com/vex/
 
 
 [iq]: http://www.vexrobotics.com/vexiq
@@ -334,3 +447,4 @@ W
 [ldraw]: http://www.ldraw.org/downloads-2/third-party-software.html
 [ev3amz]: http://www.amazon.com/LEGO-6029291-Mindstorms-EV3-31313/dp/B00CWER3XY/?{{ site.amazontag }} "I get a small referral fee if you purchase it on Amazon through this link, so please consider doing so if you found this post useful"
 [brickpikit]: http://www.amazon.com/Dexter-Industries-BrickPi-Starter-Bundle/dp/B00HJ7TSXC/?{{ site.amazontag }}
+[ev3vsiq]: http://www.damienkee.com/home/2014/10/17/lego-ev3-vs-vex-iq.html

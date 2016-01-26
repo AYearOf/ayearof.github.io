@@ -547,7 +547,22 @@ but the kits used seem considerably above the EV3 and IQ levels.
 
 ## Final Words
 
+Between included components and low prices, 
+VEX IQ feels like the right generation platform
+for entry-level robotics education or competitions.
 
+The EV3 is a power house when it comes to processing 
+capacity and the availability of components,
+both in loans from the Technic sets 
+as well as third parties like Mindsensors or RobotShop.
+
+As a software engineer doing this for fun, 
+the processing power available to the EV3 brick 
+was ultimately more attractive to me than 
+the benefits offered by the [VEX IQ set][iq]. 
+
+Stay tuned for a post on which of the EV3 sets
+I decided to go with and why.  
 
 
 

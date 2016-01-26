@@ -20,7 +20,9 @@ robots with them, but VEX is serious about their robots.
 
 If you would like to know more details,
 and why the EV3 was a better choice for me
-(and might be for you too) read on.
+(and might be for you too) read on. If not, at least
+read [Damien Kee's comparison][ev3vsiq] for a 20,000-foot 
+overview.
 
 ## Set Contents
 
@@ -70,7 +72,6 @@ For the most part, you can tell from the table above that the VEX IQ is a better
 
 ![EV3 vs VEXIQ](/assets/ev3-iq-robots.jpg)
 
-
 All three kits have about the same number of robots that can be built out of the box with the starter kit, 
 but within those robots there seem to be more variations on the EV3 side:
 the EV3 instructions for a given robot also offer adaptations 
@@ -78,14 +79,14 @@ in sensors and secondary attachments; it makes it easier to build
 a robot with slightly different abilities while keeping 98% of the frame
 already built.
 
-VEX IQ bots:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_9VaV5RO7TQ" frameborder="0" allowfullscreen></iframe>
+On a personal level, I feel that the robots you build with the EV3 set,
+both Retail and Education, are better looking than the robots you build
+with IQ set. While that might sound shallow, consider that if you have
+kids involved, having cool robots is a significant plus.
 
-EV3 Home robots
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uz11s_JJayM" frameborder="0" allowfullscreen></iframe>
+Who could resist the adorable Puppy robot (Education set)? 
 
-EV3 Education robots
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iTH-WwrldLY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zriGyLddpBQ" frameborder="0" allowfullscreen></iframe>
 
 
 However, in looking over the instructions, I had an easier time following
@@ -96,21 +97,42 @@ or *"Rubber Shaft Collars become softer and easier to install if they are warmed
 
 For beginners, those kind of tips can save a lot of time and frustration.
 
-## Structural
+### VEX IQ bots
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_9VaV5RO7TQ" frameborder="0" allowfullscreen></iframe>
 
-!!! Thinner pieces in IQ allow for bending but also require more bracing.
+### EV3 Home robots
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uz11s_JJayM" frameborder="0" allowfullscreen></iframe>
 
-I haven't *actually* tried the IQ set, but people with experience with both kits say
+### EV3 Education robots
+
+I couldn't find a video of all the robots you can build with 
+the Education set, so here is collage of the various robots.
+
+With the Education core set:
+[![EV3 Education Core robots](/assets/ev3-educore-robots.jpg)](/assets/ev3-educore-robots-large.jpg)
+
+Once you add With the Education expansion set:
+[![EV3 Education Expansion robots](/assets/ev3-eduexp-robots.jpg)](/assets/ev3-eduexp-robots-large.jpg)
+
+The presence of instructions is an individual preference,
+but all else being equal I'd rather have more instructions 
+and not use them. In this, the EV3 sets do a great job.
+
+## Structural Components
+
+I haven't *actually* tried the IQ set -- I'm relying on information from friends and the web -- 
+but people with experience with both kits say
 that it's **easier to build** (or rebuild) with VEX IQ. 
 For one, it seems to have some larger plates and beams which should make it easier
-to build larger robots.
+to build larger robots. The IQ set has **thinner pieces** that require more bracing,
+but they also allow bending, which would expand the range of possibilities.
 
 To a [certain degree](http://www.vexforum.com/index.php/9833-compatibility-of-vex-and-vex-iq/0), 
 VEX IQ is also compatible with the VEX EDR, which
 would allow you to replace some of the structural 
 components with stronger metal pieces from the EDR. 
 
-On the other hand, the EV3 uses LEGO Technic pieces, which opens
+On the other hand, the EV3 uses **LEGO Technic pieces**, which opens
 the door to a whole large world of kits and builds, including
 the possibility of automating some of the Technic sets.  
 Mmmm [Container Truck][tekcontainer] + [Volvo Loader][tekvolvo]... 
@@ -140,7 +162,10 @@ serve as the third, non-powered wheel.
 
 ## Electronics
 
-TL;DR
+The two sets offer the same type of electronics and with very similar specs,
+with VEX IQ's offer being slightly better in motors. Similar to the motors,
+the VEX IQ sensors seem to be smaller in size, which does help in almost any
+construction you plan on building.
 
 ### Brick
 
@@ -219,16 +244,18 @@ Notes:
   it can be part of your structure or structural reinforcement.
 
 Thanks to Philippe "Philo" Hurbain for a lot of the [research into Technic motors][technicmotorcomparison]!
+
 ### Sensors
+
 VEX IQ comes with **more sensors** than the Home version of EV3 
 and about **on par** with the Education version.  
 
-**NEED MORE ON SENSORS**
-
 ### Gyro
 
-[VEX IQ Gyro](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3014.html)
-[EV3 Gyro sensor #45505](http://shop.lego.com/en-US/EV3-Gyro-Sensor-45505)
+Much like the rest of the narrative,
+the [VEX IQ Gyro](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3014.html)
+is both a better and a little bit worse than the
+[EV3 Gyro sensor #45505](http://shop.lego.com/en-US/EV3-Gyro-Sensor-45505).
 
 ![EV3 Gyro vs VEX IQ Gyro](/assets/ev3-iq-gyro.jpg)
 
@@ -239,20 +266,42 @@ and about **on par** with the Education version.
 | Max output  | 440 degrees/second | 550 degrees/second |
 | Price       | $30                | $25     |
 
-- (1) drift - 1 deg/min http://www.vexiqforum.com/forum/main-category/official-answers-ask-the-vex-staff/7409-code-for-driver-control-program
+- (1) There's no information about the accuracy 
+  of the IQ gyro sensor, but a post in the forus
+  mentions [1 deg/minute drift in reading](http://www.vexiqforum.com/forum/main-category/official-answers-ask-the-vex-staff/7409-code-for-driver-control-program).
+  Perhaps the EV3 has [the same issue](http://forums.usfirst.org/showthread.php?20801-EV3-Gyro-sensor-drift), 
+  but it's somehow [eliminated in software](http://stemrobotics.cs.pdx.edu/node/2887).
 
 ### Distance
-[VEX IQ Distance sensor](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3011.html)
-[EV3 Ultrasonic](http://shop.lego.com/en-US/EV3-Ultrasonic-Sensor-45504)
-[EV3 Infrared sensor](http://shop.lego.com/en-US/EV3-Infrared-Sensor-45509)
-4 signal channels, can receive IR remote commands
-[EV3 Infrared beacon](http://shop.lego.com/en-US/EV3-Infrared-Beacon-45508)
+
+There are two types of distance sensors: ultrasonic and infrared.
+
+The ultrasound sensor tends to be more precise at larger distances,
+but due to its nature it suffers when the reflecting surface is sub-optimal:
+curved surfaces and smooth surfaces at skew angles deflect the signal away from the receptor in the sensor;
+cloth and carpet-like surfaces, including drapes, allow the signal to pass through and reflect very little back.  
+
+In contrast, the infrared sensor works off reflecting light so it suffers 
+less from these issues, however it has its own set of problems, the main
+one being light polution causing the sensor to only be effective at 
+short distances.
+
+Both types of sensors have an active scanning mode and 
+passive receiving mode enabling the infrared sensor to act
+as a receiver for a remote, e.g. 
+[EV3 Infrared beacon](http://shop.lego.com/en-US/EV3-Infrared-Beacon-45508),
+whereas the ultrasonic sensor can act as a noise detector.   
+
+The [VEX IQ Distance sensor](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3011.html)
+is ultrasonic, similar to the 
+[EV3 Education kit's distance sensor](http://shop.lego.com/en-US/EV3-Ultrasonic-Sensor-45504);
+The EV3 Home version comes instead with [an Infrared sensor](http://shop.lego.com/en-US/EV3-Infrared-Sensor-45509).
 
 ![EV3 Distance vs VEX IQ distance](/assets/ev3-iq-distance.jpg)
 
-Issues with curved sufaces, cloth or carpet-like surfaces, smooth surfaces at skew angles, tiny angles.
-
-Bias towards one part due to the having a separate transmitter from receiver. 
+It's worth pointing out that the eye-like construction of the ultrasonic 
+sensor, with an emitter and a receiver side by side, causes 
+detection bias towards the side with the transmitter.  
 
 | Parameter   | EV3 Ultrasonic #45504   | EV3 Infrared #45509 | VEX IQ                 |
 |-------------|-------------------------|---------------------|------------------------|
@@ -261,7 +310,9 @@ Bias towards one part due to the having a separate transmitter from receiver.
 | Receive Mode| Yes                     | Yes (2)             | ?                      |
 | Price       | $30                     | $25                 | $25                    |
 
-- (1) although max distance seems to be 610mm in RobotC and 500mm in ModKit http://www.vexiqforum.com/forum/main-category/technical-discussion/1437-distance-sensor?p=1449#post1449
+- (1) marketing copy; after it was pointed that max distance [seems to be 610mm in RobotC and 500mm in ModKit](http://www.vexiqforum.com/forum/main-category/technical-discussion/1437-distance-sensor?p=1449#post1449),
+  in an email exchange with a support person, VEX recognized 
+  that they need to update the web page to read a 2 to 18 *usable* distance,
 - (2) - up to 2 meter = 6 feet distance from beacon
 
 ### Color
@@ -315,7 +366,6 @@ http://shop.lego.com/en-US/EV3-Cable-Pack-45514
 http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2780.html
 - 6 cables (2 x 20 cm, 2 x 30 cm, 1 x 40 cm, 1 x 60 cm) - $10
 - extra long cables available
-
 
 
 ### Third Party
@@ -448,3 +498,4 @@ https://www.hexbug.com/vex/
 [ev3amz]: http://www.amazon.com/LEGO-6029291-Mindstorms-EV3-31313/dp/B00CWER3XY/?{{ site.amazontag }} "I get a small referral fee if you purchase it on Amazon through this link, so please consider doing so if you found this post useful"
 [brickpikit]: http://www.amazon.com/Dexter-Industries-BrickPi-Starter-Bundle/dp/B00HJ7TSXC/?{{ site.amazontag }}
 [ev3vsiq]: http://www.damienkee.com/home/2014/10/17/lego-ev3-vs-vex-iq.html
+[ev345544robots]: http://robotsquare.com/2013/10/01/education-ev3-45544-instruction/

@@ -3,7 +3,7 @@ layout: post
 title: Mindstorms EV3 vs VEX IQ
 ---
 Let me give you the TL;DR right off the bat: 
-if you plan on doing robotics, 
+if you plan on starting robotics, 
 buy the [VEX IQ Super Kit](http://www.vexrobotics.com/vexiq/products/kits-bundles/super-kit.html). 
 
 The company, VEX Robotics, seems more focused than LEGO,

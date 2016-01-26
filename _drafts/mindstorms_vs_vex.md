@@ -24,6 +24,7 @@ and why the EV3 was a better choice for me
 read [Damien Kee's comparison][ev3vsiq] for a 20,000-foot 
 overview.
 
+
 ## Set Contents
 
 Out of the entire VEX line, [VEX IQ][iq] seems a direct competitor to the 
@@ -68,6 +69,7 @@ are, I'd say, about 80-90% the same between the two.
 
 For the most part, you can tell from the table above that the VEX IQ is a better deal.
 
+
 ## Robots and Instructions
 
 ![EV3 vs VEXIQ](/assets/ev3-iq-robots.jpg)
@@ -98,11 +100,14 @@ or *"Rubber Shaft Collars become softer and easier to install if they are warmed
 
 For beginners, those kind of tips can save a lot of time and frustration.
 
+
 ### VEX IQ bots
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_9VaV5RO7TQ" frameborder="0" allowfullscreen></iframe>
 
+
 ### EV3 Home robots
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uz11s_JJayM" frameborder="0" allowfullscreen></iframe>
+
 
 ### EV3 Education robots
 
@@ -118,6 +123,7 @@ Once you add With the Education expansion set:
 The presence of instructions is an individual preference,
 but all else being equal I'd rather have more instructions 
 and not use them. In this, the EV3 sets do a great job.
+
 
 ## Structural Components
 
@@ -153,6 +159,7 @@ serve as the third, non-powered wheel.
 
 ![EV3 Education - Ball Wheel](/assets/ev3-ball-wheel.jpg)
 
+
 ### Gears
 
 When it comes to gears, it becomes a bit more difficult to make a straight comparison.
@@ -183,12 +190,14 @@ that part is on par with the IQ --
 but by the [sheer number of wheels and tires](http://www.amazon.com/LEGO-Education-Wheels-4598357-Pieces/dp/B004HXCX3I?{{ site.amazontag }}) 
 combinations available from the Technic sets, all of which are usable with the Mindstorms set.
 
+
 ## Electronics
 
 The two sets offer the same type of electronics and with very similar specs,
 with VEX IQ's offer being slightly better in motors. Similar to the motors,
 the VEX IQ sensors seem to be smaller in size, which does help in almost any
 construction you plan on building.
+
 
 ### Brick
 
@@ -227,6 +236,7 @@ The VEX IQ comes with a 900 MHz radio module that talks to their
 that enables Bluetooth 4.0 connection to the brick,
 and theoretically would enable the creation of a similar
 controller app (there is none available at the moment).
+
 
 ### Motors
 
@@ -268,12 +278,14 @@ Notes:
 
 Thanks to Philippe "Philo" Hurbain for a lot of the [research into Technic motors][technicmotorcomparison]!
 
+
 ### Sensors
 
 VEX IQ comes with **more sensors** than the Home version of EV3 
 and about **on par** with the Education version.  
 
 [![EV3 vs IQ sensors](/assets/ev3-iq-sensors.jpg)](/assets/ev3-iq-sensors.jpeg)
+
 
 ### Gyro Sensors
 
@@ -295,6 +307,7 @@ is both a better and a little bit worse than the
   mentions [1 deg/minute drift in reading](http://www.vexiqforum.com/forum/main-category/official-answers-ask-the-vex-staff/7409-code-for-driver-control-program).
   Perhaps the EV3 has [the same issue](http://forums.usfirst.org/showthread.php?20801-EV3-Gyro-sensor-drift), 
   but it's somehow [eliminated in software](http://stemrobotics.cs.pdx.edu/node/2887).
+
 
 ### Distance Sensors
 
@@ -405,6 +418,7 @@ Offering a separate LED signaling device means
 that not only it can be placed in a prominent place,
 but that **more than one** can be attached to the controller.
 
+
 ### Cables
 
 Both kits use, apparently [for safety reasons](http://www.philohome.com/nxtplug/nxtplug.htm),
@@ -435,6 +449,7 @@ there's even a RaspberryPi replacement for the brick:
 VEX Robotics is currently the only supplier for 
 VEX IQ, but they have good offerings at *very* sensible prices.
 
+
 ## Software
 
 There are two dimensions to consider when it comes to the software 
@@ -444,6 +459,7 @@ is something communities thrive on.
 
 To be honest, in terms of features and pricing, EV3 has the upper hand.  
 By a wide margin.
+
 
 ### Programming
 
@@ -528,9 +544,10 @@ looks like a lot of fun.
 There are [more competitions](http://www.robotevents.com/robot-competitions),
 but the kits used seem considerably above the EV3 and IQ levels.
 
+
 ## Final Words
 
-W
+
 
 
 

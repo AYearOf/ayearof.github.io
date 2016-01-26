@@ -81,7 +81,8 @@ already built.
 
 On a personal level, I feel that the robots you build with the EV3 set,
 both Retail and Education, are better looking than the robots you build
-with IQ set. While that might sound shallow, consider that if you have
+with IQ set (I think [HEXBUG][hexbug] is trying to fix some of this).
+While that might sound shallow, consider that if you have
 kids involved, having cool robots is a significant plus.
 
 Who could resist the adorable Puppy robot (Education set)? 
@@ -153,12 +154,34 @@ serve as the third, non-powered wheel.
 ![EV3 Education - Ball Wheel](/assets/ev3-ball-wheel.jpg)
 
 ### Gears
-[Omni-directional](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2536.html)
-[Sprockets and Chain](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html)
-[Differential](http://www.vexrobotics.com/vexiq/products/accessories/motion/differential-and-bevel-gear-pack.html)
-[Rack, Worms, Slides](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2532.html)
+
+When it comes to gears, it becomes a bit more difficult to make a straight comparison.
+
+The VEX IQ feels like it has the upper hand with a host of regular gears,
+from [12 to 60 teeth](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-gear-g.html) in a variety of colors,
+to [sprockets and chains](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html),
+to [racks, worms, and slides](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2532.html),
+to [differentials](http://www.vexrobotics.com/vexiq/products/accessories/motion/differential-and-bevel-gear-pack.html).
+
+The EV3 has a similar range of gears (from 8 to 40 teeth), sprockets, racks, etc,
+but also includes a slightly different take on [turntable gears](http://www.amazon.com/LEGO-Technic-Turntable-Platform-Gear/dp/B0040DLAIY?{{ site.amazontag }}):
+whereas the IQ is smooth and ball-bearing, the LEGO variant has teeth so it can be used
+both as a turntable and as a reduction gear. I feel the 
+[sprockets and chains](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html) are better
+in the VEX IQ are better than the LEGO equivalent and there's a 
+a better set of [pulleys](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-pulley-g.html) too. 
+
+Worth mentioning that with the EV3 you have access to the full set of Technic gears
+(read [Sariel's tutorial on the topic][sariel_gears]).
+
 
 ### Wheels
+
+Except for [VEX IQ's cool omni-directional wheel](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2536.html),
+the EV3 has the upper hand not only by what's included in the starter kits --
+that part is on par with the IQ --
+but by the [sheer number of wheels and tires](http://www.amazon.com/LEGO-Education-Wheels-4598357-Pieces/dp/B004HXCX3I?{{ site.amazontag }}) 
+combinations available from the Technic sets, all of which are usable with the Mindstorms set.
 
 ## Electronics
 
@@ -250,14 +273,15 @@ Thanks to Philippe "Philo" Hurbain for a lot of the [research into Technic motor
 VEX IQ comes with **more sensors** than the Home version of EV3 
 and about **on par** with the Education version.  
 
-### Gyro
+[![EV3 vs IQ sensors](/assets/ev3-iq-sensors.jpg)](/assets/ev3-iq-sensors.jpeg)
+
+### Gyro Sensors
 
 Much like the rest of the narrative,
 the [VEX IQ Gyro](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3014.html)
 is both a better and a little bit worse than the
 [EV3 Gyro sensor #45505](http://shop.lego.com/en-US/EV3-Gyro-Sensor-45505).
 
-![EV3 Gyro vs VEX IQ Gyro](/assets/ev3-iq-gyro.jpg)
 
 | Parameter   | EV3 #45505         | VEX IQ  |
 |-------------|--------------------|---------|
@@ -272,7 +296,7 @@ is both a better and a little bit worse than the
   Perhaps the EV3 has [the same issue](http://forums.usfirst.org/showthread.php?20801-EV3-Gyro-sensor-drift), 
   but it's somehow [eliminated in software](http://stemrobotics.cs.pdx.edu/node/2887).
 
-### Distance
+### Distance Sensors
 
 There are two types of distance sensors: ultrasonic and infrared.
 
@@ -292,12 +316,13 @@ as a receiver for a remote, e.g.
 [EV3 Infrared beacon](http://shop.lego.com/en-US/EV3-Infrared-Beacon-45508),
 whereas the ultrasonic sensor can act as a noise detector.   
 
+[![EV3 IR beacon and sensor](/assets/ev3-ir.jpg)](/assets/ev3-ir.jpeg)
+
 The [VEX IQ Distance sensor](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3011.html)
 is ultrasonic, similar to the 
 [EV3 Education kit's distance sensor](http://shop.lego.com/en-US/EV3-Ultrasonic-Sensor-45504);
-The EV3 Home version comes instead with [an Infrared sensor](http://shop.lego.com/en-US/EV3-Infrared-Sensor-45509).
-
-![EV3 Distance vs VEX IQ distance](/assets/ev3-iq-distance.jpg)
+The EV3 Home version comes instead with [an Infrared sensor](http://shop.lego.com/en-US/EV3-Infrared-Sensor-45509)
+(pictured above).
 
 It's worth pointing out that the eye-like construction of the ultrasonic 
 sensor, with an emitter and a receiver side by side, causes 
@@ -315,62 +340,92 @@ detection bias towards the side with the transmitter.
   that they need to update the web page to read a 2 to 18 *usable* distance,
 - (2) - up to 2 meter = 6 feet distance from beacon
 
-### Color
-[7 colors in Education ref](https://shop.education.lego.com/legoed/en-US/catalog/product.jsp?productId=45506&isSimpleSearch=false&ProductLine=LEGO+MINDSTORMS+Education+EV3)
-[8 colors in Retail ref](http://shop.lego.com/en-US/EV3-Color-Sensor-45506)
-[vex iq color](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3012.html)
+### Color Sensors
 
-VEX IQ 12 "simple colors" (same as touch led): red-violet, red, dark-orange, orange, dark yellow,
-yellow, lime green, green, blue-green, blue, dark blue, violet.
-- color hue
-- RGB - 256 levels each
-- ambient light level
-- sample rate?
-- $25
+The kits come with sensors capable of detecting multiple colors, but also 
+measure relative ambient light level (comes in handy for follow-the-line robots).
 
-EV3 black and white, or between blue, green, yellow, red, white and brown. Sample rate 1 kHz
-- $40
+The [VEX IQ color sensor](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3012.html)
+is the superior one here:  
+
+- can detect 12 simple colors:
+  red-violet, red, dark-orange, orange, dark yellow, yellow, lime green, green, blue-green, blue, dark blue, violet;
+- RGB - 256 levels each;
+- senses color hue;
+- ambient light level;
+- costs $25 (comes in the kit, but for replacement purposes...).
+
+[The EV3 color sensor](http://shop.lego.com/en-US/EV3-Color-Sensor-45506) costs $40 for a replacement,
+and has lower spects on the detection level:
+
+- only 8 colors: black and white (1), or between blue, green, yellow, red, white and brown;
+- samples at 1 kHz;
+- can detect ambient light level.
+
+**Note (1)** - professing color detection of black and white seems a bit
+like cheating in specs, as I'm sure the VEX IQ detects the same. That 
+would put the IQ sensors at 14 colors vs 8 for the EV3.
 
 
-### Touch/Bump
-[VEX IQ](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2677.html)
-- low force
-- 3 states: up, down, bumped
-- can attach things to it
-- $5
+### Bump aka Pressure Sensors
 
+There are bump sensors in both kits and they function the same; they take
+a low pressure to trigger and can register three states: pressed, released,
+and "bumped" (quick press followed by release). In both cases you can 
+attach other elements to them, e.g. a cross-axle, to perhaps increase their range.
 
-[EV3]
-- pressed, released, single and multiple presses.
-- can attach cross-axle
-- $20
+It's puzzling though why the 
+[VEX IQ bump sensor](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2677.html)
+costs only $5 while the [EV3 bump sensor](http://shop.lego.com/en-US/EV3-Touch-Sensor-45507)
+costs $20 - *four times the price*.
+
+Note that the EV3 refers to the sensor as a "touch sensor",
+but in the context of modern parlance where touch typically
+means *capacitive* touch sensor, I feel bump sensor is a less
+ambiguous name.
 
 
 ### LED Signaling
-[Touch LED]()
-- touch sensor 
-- cannot attach things
-- 16 million color variations
-- on, off, blink rate
-- $10
 
-VEX Brick - 3 color, on, off, blink
+In terms of signaling, the EV3 relies on the brick: 
+it can display text and images, but you can also 
+program the LEDs surrounding the control buttons
+to change to one of three colors: green, amber, red,
+and to blink at various rates.
+
+In contrast, the VEX IQ set offers a combination 
+[Touch sensor with LED](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-3010.html)
+that is truly touch-triggered, but it can also 
+use the embedded LED lights to display some 16 million color variations,
+in addition to being able to blink at specified rates.
+
+[![VEX IQ touch sensor with LED](/assets/vexiq-touch.jpg)](/assets/vexiq-touch.jpeg)
+
+Offering a separate LED signaling device means 
+that not only it can be placed in a prominent place,
+but that **more than one** can be attached to the controller.
 
 ### Cables
-Proprietary
 
-http://shop.lego.com/en-US/EV3-Cable-Pack-45514
-- 7 cables (4 x 25 cm/10 in, 2 x 35 cm/14 in, 1 x 50 cm/20 in) - $15
-- extra long cables 3rd party: http://www.mindsensors.com/51-cables-connectors
+Both kits use, apparently [for safety reasons](http://www.philohome.com/nxtplug/nxtplug.htm),
+proprietary connectors on their cables. They are modeled after 
+[a 6P6C plug](https://en.wikipedia.org/wiki/Modular_connector#6P6C) (telephone plug),
+but the EV3's latch is right-offset, whereas the VEX IQ is left-offset.
 
-http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2780.html
-- 6 cables (2 x 20 cm, 2 x 30 cm, 1 x 40 cm, 1 x 60 cm) - $10
-- extra long cables available
+I really wish they had use the same connector, because unsurprisingly
+the VEX IQ cables are cheaper than the EV3: 
+[$10 for 6 cables](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-2780.html)
+vs 
+[$15 for 7 cables](http://shop.lego.com/en-US/EV3-Cable-Pack-45514).
+
+Both sets have extra long cables (1-2 m = 3-6 ft) available for purchase,
+through [VEX Robotics](http://www.vexrobotics.com/vexiq/products/accessories/electronics/228-4422.html)
+in the IQ case, and [3rd parties](http://www.mindsensors.com/51-cables-connectors) in the EV3 case.
 
 
 ### Third Party
 
-Finally, the EV3 has quite a 
+Finally, the EV3 shines in that it has quite a 
 [rich][mindsensorsev3] 
 [3rd-party][robotshopev3]
 [parts][genrobot] market - 
@@ -426,15 +481,26 @@ Then there's [LeJos][lejos] - Java based, a veteran in the field of Mindstorms p
 going back to the NXT days; and there's even a [RobotC version for EV3](http://www.robotc.net/download/lego/) 
 (unfortunately it's Windows-only).  
 Again, you have a full-blown version of Linux, 
-so pretty much anything you can do on Linux, yo can do on the brick.
+so pretty much anything you can do on Linux, you can do on the brick.
 
-DataLog component.
+One interesting sofware component that the EV3 set comes with,
+although only in the Education set, is a datalog block.
+
+This allows the brick to record high-sample sensor data, for example
+data from [a temperature sensor](https://shop.education.lego.com/legoed/en-US/catalog/product.jsp?productId=9749&ProductName=MINDSTORMS-Temperature-Sensor&ProductLine=LEGO-MINDSTORMS-Education-EV3),
+or truly [any of the other sensors](http://www.afrel.co.jp/en/archives/839).  
+The data can be obtained and viewed in the LEGO Mindstorms app 
+either on the fly, when the brick is connected to the computer,
+or at a later time.
+
+![EV3 Data Logging - chart](/assets/ev3-data-logging.jpg)
 
 
 ### Design
 
 On the CAD front, LEGO has the [LEGO Digital Designer aka LDD][ldd],
-with both OS X and Windows version;
+a well liked program, with both OS X and Windows version, 
+although [it's being discontinued](http://brickset.com/article/18789) as of January 2016;
 there's even an open standard for LEGO CAD programs, [LDraw](http://www.ldraw.org),
 and [quite the list of programs][ldraw] that can use it.
  
@@ -465,7 +531,7 @@ but the kits used seem considerably above the EV3 and IQ levels.
 ## Final Words
 
 W
-https://www.hexbug.com/vex/
+
 
 
 [iq]: http://www.vexrobotics.com/vexiq
@@ -499,3 +565,5 @@ https://www.hexbug.com/vex/
 [brickpikit]: http://www.amazon.com/Dexter-Industries-BrickPi-Starter-Bundle/dp/B00HJ7TSXC/?{{ site.amazontag }}
 [ev3vsiq]: http://www.damienkee.com/home/2014/10/17/lego-ev3-vs-vex-iq.html
 [ev345544robots]: http://robotsquare.com/2013/10/01/education-ev3-45544-instruction/
+[sariel_gears]: http://sariel.pl/2009/09/gears-tutorial/
+[hexbug]: https://www.hexbug.com/vex/

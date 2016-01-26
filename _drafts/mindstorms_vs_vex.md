@@ -109,10 +109,10 @@ I couldn't find a video of all the robots you can build with
 the Education set, so here is collage of the various robots.
 
 With the Education core set:
-[![EV3 Education Core robots](/assets/ev3-educore-robots.jpg)](/assets/ev3-educore-robots-large.jpg)
+[![EV3 Education Core robots](/assets/ev3-robots-core.jpg)](/assets/ev3-educore-robots-large.jpg)
 
 Once you add With the Education expansion set:
-[![EV3 Education Expansion robots](/assets/ev3-eduexp-robots.jpg)](/assets/ev3-eduexp-robots-large.jpg)
+[![EV3 Education Expansion robots](/assets/ev3-robots-expansion.jpg)](/assets/ev3-eduexp-robots-large.jpg)
 
 The presence of instructions is an individual preference,
 but all else being equal I'd rather have more instructions 

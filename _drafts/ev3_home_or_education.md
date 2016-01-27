@@ -34,7 +34,7 @@ which allows even more robots to build.
 
 I'm not going to go into great detail about how the sets compare.
 
-[RobotSquare has a great article][rs-diff] going into exquisite 
+[RobotSquare has a *great* article][rs-diff] going into exquisite 
 detail on how the sets compare and how do they differ.   
 Their article on [which set to buy][rs-which] has been 
 a source of great inspiration in my choice too. 
@@ -53,7 +53,77 @@ then the pieces that differ between Education and Home then the other way
 around. For one, that rechargeable battery that comes with the Core set
 is both attractive and expensive.
 
-## Computing the difference
+## Upgrading Sets
+
+Laurens's article on [the difference between Home and Education][rs-diff]
+is a great one and you should read it, then read it again.
+
+In it, he/she also talks about upgrading from one set to the other,
+and includes links to various people who have put together lists of 
+parts required to complete the sets. 
+
+Some of the links in that article are dead, and of those that still
+work, all of them make what I see to be a mistake: compute
+the difference on exact part IDs, rather than on LEGO Design Id.
+
+Allow me to explain.
+
+## Computing the Difference
+
+A LEGO piece may have more than one ID. There's an ID called LDD??ID
+which identified the shape piece: e.g. 1x7 beam; 1x7 beams with different
+colors will have different part ids - they are identical in every other way
+but the color. 
+
+??Example??
+
+And this is where the mistake I mentioned above comes in.  
+The Home set might have a 1x7 beam in white, while the 
+Education version might have the exact same beam in gray.  
+If you compare by part ID, you might think you need to purchase
+the part because it does not exist in the other set.
+
+And if you're a stickler for colors, that might be something
+you're willing to do. Certainly all the spreadsheets and PDFs
+and documents mentioned above take this route. 
+
+However, if one was to compare by LDD ID, then we'd 
+see there's quite a significant overlap between
+the Education and Home set. That means less parts we need to buy.
+
+Not only that, but it means we can buy them in whatever
+color is the cheapest at the time on the LEGO parts sites.
+
+What I've done is to use one excellent feature
+of [the Rebrickable site][rebrick] that allows
+you to export the parts that make up a set in 
+a CSV format.
+
+I have done so for the Home, Education Core, and Expansion set,
+then imported them into Google Docs where I cleaned up the data
+and then ran a pivot report that grouped them by LDD Id, thus
+ignoring colors, and then by set, to get a cross-table 
+with the number of records in each set.
+
+This allows me to do the kind of calculations you see 
+in column F: Core + Expansion - Home.
+
+## Purchasing
+
+Now that you have the minimal set of components, 
+you can use one of the many LEGO sites to purchase 
+the missing part. I personally used BrickOwl
+because it allowed me to create a wish list with 
+all the items and its powerful calculation engine
+allows me to select the combination of sellers
+that yields the lower price.  
+However, even at this point there are more money-saving
+opportunities. 
+
+The Home version comes with some cool looking robots,
+
+
+
 
 
 
@@ -77,3 +147,8 @@ is both attractive and expensive.
 [ev3amz]: http://www.amazon.com/LEGO-6029291-Mindstorms-EV3-31313/dp/B00CWER3XY/?{{ site.amazontag }} "I get a small referral fee if you purchase it on Amazon through this link, so please consider doing so if you found this post useful"
 [rs-which]: http://robotsquare.com/2014/11/13/ev3-home-edition-or-ev3-education-edition/
 [rs-diff]: http://robotsquare.com/2013/11/25/difference-between-ev3-home-edition-and-education-ev3/
+[gsheet]:
+[brickowl-list]: 
+[ldd]: http://ldd.lego.com/en-us/
+[ldraw]: http://www.ldraw.org/
+[rebrick]: 

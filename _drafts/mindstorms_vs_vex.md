@@ -48,10 +48,10 @@ that can be built *out of the box* differ too. The structural parts
 are, I'd say, about 80-90% the same between the two.
 
 
-| Parts                | EV3 Home (#31313)                          | EV3 Education (#45544)                     | VEX IQ                                 | 
+| Parts                | EV3 Home (#31313)                          | EV3 Education (#45544)                     | VEX IQ (Starter kit)                   | 
 |----------------------|--------------------------------------------|--------------------------------------------|----------------------------------------| 
 | Structural           | 550+                                       | 540+                                       | 850+                                   | 
-| Motors               | 2 lage, 1 medium                           | 2 lage, 1 medium                           | 4                                      | 
+| Motors               | 2 large, 1 medium                          | 2 large, 1 medium                          | 4                                      | 
 | Sensors - Touch/Bump | 1                                          | 2                                          | 2                                      | 
 | Sensors - Distance   | 1, Infrared                                | 1, Ultrasonic                              | 1, Ultrasonic                          | 
 | Sensors - Color      | 1                                          | 1                                          | 1                                      | 
@@ -67,7 +67,13 @@ are, I'd say, about 80-90% the same between the two.
 | Price                | $349                                       | $349                                       | $249                                   | 
 
 
-For the most part, you can tell from the table above that the VEX IQ is a better deal.
+I hope the table above makes two things clear:
+
+1. The VEX IQ is a better deal
+2. Of the two EV3 sets, the EV3 Education set is the closest match to the IQ.
+
+Given the latter, I will mostly compare the VEX IQ and the Education sets,
+but call out interesting features from the Home set.
 
 
 ## Robots and Instructions
@@ -111,13 +117,14 @@ For beginners, those kind of tips can save a lot of time and frustration.
 
 ### EV3 Education robots
 
-I couldn't find a video of all the robots you can build with 
-the Education set, so here is collage of the various robots.
+I couldn't find one  video of all the robots you can build with 
+the Education set, only [videos of individual robots](https://education.lego.com/en-us/learn/middle-school/mindstorms-ev3/teaching-resources/hardware/inspirational-models), so here is collage of the various robots.
 
 With the Education core set:
 [![EV3 Education Core robots](/assets/ev3-robots-core.jpg)](/assets/ev3-educore-robots-large.jpg)
 
-Once you add With the Education expansion set:
+And once you add the [Education expansion set](https://education.lego.com/en-us/lego-education-product-database/mindstorms-ev3/45560-lego-mindstorms-education-ev3-expansion-set
+):
 [![EV3 Education Expansion robots](/assets/ev3-robots-expansion.jpg)](/assets/ev3-eduexp-robots-large.jpg)
 
 The presence of instructions is an individual preference,
@@ -132,7 +139,9 @@ but people with experience with both kits say
 that it's **easier to build** (or rebuild) with VEX IQ. 
 For one, it seems to have some larger plates and beams which should make it easier
 to build larger robots. The IQ set has **thinner pieces** that require more bracing,
-but they also allow bending, which would expand the range of possibilities.
+but they also allow bending, which would expand the range of possibilities,
+and the elasticity makes them less likely to fall apart when
+bumping into things or falling off obstacles.
 
 To a [certain degree](http://www.vexforum.com/index.php/9833-compatibility-of-vex-and-vex-iq/0), 
 VEX IQ is also compatible with the VEX EDR, which
@@ -152,13 +161,6 @@ which is a ridiculous reason to pick the EV3 over
 the IQ, but it might allow you to include younger 
 children into your building activities.
 
-The Education set also comes with one interesting part: a **ball-wheel**;
-it makes it easy to build robots that can turn using only 
-two motors for the driving wheels as the ball-wheel would
-serve as the third, non-powered wheel.
-
-![EV3 Education - Ball Wheel](/assets/ev3-ball-wheel.jpg)
-
 
 ### Gears
 
@@ -174,7 +176,7 @@ The EV3 has a similar range of gears (from 8 to 40 teeth), sprockets, racks, etc
 but also includes a slightly different take on [turntable gears](http://www.amazon.com/LEGO-Technic-Turntable-Platform-Gear/dp/B0040DLAIY?{{ site.amazontag }}):
 whereas the IQ is smooth and ball-bearing, the LEGO variant has teeth so it can be used
 both as a turntable and as a reduction gear. I feel the 
-[sprockets and chains](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html) are better
+[sprockets and chains](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html)
 in the VEX IQ are better than the LEGO equivalent and there's a 
 a better set of [pulleys](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-pulley-g.html) too. 
 
@@ -182,13 +184,37 @@ Worth mentioning that with the EV3 you have access to the full set of Technic ge
 (read [Sariel's tutorial on the topic][sariel_gears]).
 
 
-### Wheels
+### Wheels and Motion
 
-Except for [VEX IQ's cool omni-directional wheel](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2536.html),
-the EV3 has the upper hand not only by what's included in the starter kits --
-that part is on par with the IQ --
-but by the [sheer number of wheels and tires](http://www.amazon.com/LEGO-Education-Wheels-4598357-Pieces/dp/B004HXCX3I?{{ site.amazontag }}) 
-combinations available from the Technic sets, all of which are usable with the Mindstorms set.
+Both EV3 kits come with a decent set of wheels,
+and there's an [insane number of wheels and tires](http://www.amazon.com/LEGO-Education-Wheels-4598357-Pieces/dp/B004HXCX3I?{{ site.amazontag }}) 
+you can get from Technic set, but of course they don't matter 
+much when you only have 3 motors, 4 tops.
+
+The Home kit comes with a pair of fixed-size rubber tank tracks;
+the Education kit has an link-based chain that can be used
+to build either tracks (used by the Tank Bot and [Znap](https://youtu.be/YQOMirpj9BY) from the Expansion set),
+an assembly-line ([Color Sorter](https://youtu.be/d4k9bWbtJEk) from Core set)
+or even creatively in the [Stair Climber bot](https://youtu.be/HNCvL8gLIFA).
+
+The Education set also comes with one interesting part: a **ball-wheel**;
+it makes it easy to build robots that can turn using only 
+two motors for the driving wheels as the ball-wheel would
+serve as the third, non-powered wheel.
+
+![EV3 Education - Ball Wheel](/assets/ev3-ball-wheel.jpg)
+
+Unsurprisingly, the VEX IQ set does it one better,
+with [cool omni-directional wheel](http://www.vexrobotics.com/vexiq/products/accessories/motion/228-2536.html),
+a complete set of [tracks with various inserts](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-tankintake-g.html),
+and even a separate set of [chains and sprockets](http://www.vexrobotics.com/vexiq/products/accessories/motion/iq-chainsprock-g.html).
+
+My good friend [Yusuke][pixel9] says this of the offer:
+
+> I like the VEX sprockets and chain for distributing load over large distances.
+  No need for an idling gear to run 4 wheels with 2 motors.
+  The chains and tank treads are adjustable in length unlike
+  the fixed size rubber treads in the LEGO set and you can use the chains for different conveyor mechanisms by attaching different size flaps at whatever interval you want.
 
 
 ## Electronics
@@ -221,14 +247,14 @@ the same as the Nintendo DS, NEST Thermostat, or [BeagleBone Black](http://www.a
 with 16 MB of Flash memory, 64 MB of RAM, and running at 300MHz. This has some exciting
 ramifications, which we'll talk about in the Software section.
 
-
 EV3 Brick allows display of images, can play sounds, and change LED color.
 It's not backlit. IQ is. 
 
 From a connectivity perspective, the EV3 is better equipped 
 out of the box: both use USB to upload programs to the brick,
 but the EV3 also comes with Bluetooth, which allows you
-to [control your robot using your iOS or Android phone](http://www.lego.com/en-us/mindstorms/downloads/robot-commander-app/).
+to control your robot with your iOS or Android phone using the 
+[LEGO Robot Commander app](http://www.lego.com/en-us/mindstorms/downloads/robot-commander-app/).
 
 The VEX IQ comes with a 900 MHz radio module that talks to their
 [game-like controller][iqctrl]; for only $13 you can purchase a 
@@ -236,6 +262,21 @@ The VEX IQ comes with a 900 MHz radio module that talks to their
 that enables Bluetooth 4.0 connection to the brick,
 and theoretically would enable the creation of a similar
 controller app (there is none available at the moment).
+
+To power the brick, the EV3 Home edition takes in some 6 AA batteries.
+For 85 USD you can buy a [2050 mAh LiIon battery - #45501](http://shop.lego.com/en-US/EV3-Rechargeable-DC-Battery-45501),
+or you can buy the better Education kit and get it for free.
+
+VEX IQ comes with a rechargeable battery in the starter kit. 
+It's similarly spec'd at 2000 mAh, but [alas it's NiMH](http://hubpages.com/technology/Which-is-better-Nickel-Metal-Hydride-NiMH-or-Lithium-Ion-Li-ion-batteries).  
+You can, and should, [purchase additional batteries for only $20](http://www.robotmesh.com/vexiq-robot-battery)
+(4x cheaper than LEGO!).
+
+Probably not significant, but in additional to the [better battery chemistry](http://hubpages.com/technology/Which-is-better-Nickel-Metal-Hydride-NiMH-or-Lithium-Ion-Li-ion-batteries),
+the EV3 set allows the battery to be charged without having to take the model 
+apart. Of course, it all pales in comparison with the price you pay 
+for the VEX IQ battery: you can buy a few and swap them out all day 
+as they only take about 2-3 hours to recharge.
 
 
 ### Motors
@@ -303,7 +344,7 @@ is both a better and a little bit worse than the
 | Price       | $30                | $25     |
 
 - (1) There's no information about the accuracy 
-  of the IQ gyro sensor, but a post in the forus
+  of the IQ gyro sensor, but a post in the forums
   mentions [1 deg/minute drift in reading](http://www.vexiqforum.com/forum/main-category/official-answers-ask-the-vex-staff/7409-code-for-driver-control-program).
   Perhaps the EV3 has [the same issue](http://forums.usfirst.org/showthread.php?20801-EV3-Gyro-sensor-drift), 
   but it's somehow [eliminated in software](http://stemrobotics.cs.pdx.edu/node/2887).
@@ -538,8 +579,11 @@ and [SuGO - LEGO Sumo](http://www.sugobot.com).
 
 VEX IQ has the [VEX IQ Challenge](http://www.robotevents.com/robot-competitions/vex-iq-challenge),
 but it also seems to be the kit of choice for middle and high-school competition.   
-2015–2016's [Bank Shot challenge](http://www.vexrobotics.com/vexiq/competition/competition-resources)
-looks like a lot of fun.
+2015–2016's [Bank Shot challenge](https://www.youtube.com/watch?v=X9GIF34HEvE)
+looks like a lot of fun.  
+
+Note: You'll probably want to buy the [VEX IQ Competition Add-On Kit](http://www.vexrobotics.com/vexiq/products/view-all/228-3600.html).
+It's only $100 but it expands your kit significantly.
 
 There are [more competitions](http://www.robotevents.com/robot-competitions),
 but the kits used seem considerably above the EV3 and IQ levels.
@@ -565,11 +609,24 @@ Stay tuned for a post on which of the EV3 sets
 I decided to go with and why.  
 
 
+## Thanks
+
+Much of this article wouldn't be possible
+without the research and writing of [Laurens Valk](http://robotsquare.com/about/)
+of Robot Square, [Philippe "Philo" Hurbain](http://www.philohome.com/),
+[Damien Kee](http://www.damienkee.com), and many others.
+
+A great many thanks to [Yusuke Morita][pixel9] 
+for his advice, enthusiasm, and ability to 
+carefully review looooong posts without dying of boredom.
+
+
 
 [iq]: http://www.vexrobotics.com/vexiq
 [iqctrl]: http://www.vexrobotics.com/vexiq/products/accessories/electronics/vex-iq-controller.html
 [edr]: http://www.vexrobotics.com/vexedr
 [iqstarter]: http://www.vexrobotics.com/vexiq/products/kits-bundles/starter-kits/
+[iqexp]: http://www.vexrobotics.com/vexiq/products/view-all/228-3600.html
 [ev3]: http://www.lego.com/en-us/mindstorms/products/31313-mindstorms-ev3
 [mk]: http://www.modkit.com/vex
 [rc]: http://www.robotc.net/download/vexrobotics/
@@ -599,3 +656,5 @@ I decided to go with and why.
 [ev345544robots]: http://robotsquare.com/2013/10/01/education-ev3-45544-instruction/
 [sariel_gears]: http://sariel.pl/2009/09/gears-tutorial/
 [hexbug]: https://www.hexbug.com/vex/
+[pixel9]: http://pixel9.com
+[curtis]: http://curtis.schlak.com

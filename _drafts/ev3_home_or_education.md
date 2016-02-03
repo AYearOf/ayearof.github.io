@@ -120,7 +120,13 @@ that yields the lower price.
 However, even at this point there are more money-saving
 opportunities. 
 
-The Home version comes with some cool looking robots,
+The Home version comes with some cool looking robots --
+take a look at the [spikes on the SPIK3R robot]() -- 
+but upon closer analysis you can tell that 
+most of spikes and panels are actually non-functional.  
+That means you can save some money by not purchasing them.
+
+
 
 
 
@@ -138,7 +144,7 @@ The Home version comes with some cool looking robots,
 
 
 [roboticssets]: {% post_url 2016-01-05-choice-of-robotics-sets %}
-[ev3vsiq]: {% post_url 2016-01-25-mindstorms_vs_vex %}
+[ev3vsiq]: {% post_url 2016-01-28-mindstorms_vs_vex %}
 [home]: http://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313
 [edu]: ttps://education.lego.com/en-us/lego-education-product-database/mindstorms-ev3/45544-lego-mindstorms-education-ev3-core-set/
 [edu-us]: https://shop.education.lego.com/legoed/en-US/catalog/product.jsp?productId=5003400&isSimpleSearch=false&ProductName=EV3-Core-Set-&ProductLine=LEGO-MINDSTORMS-Education-EV3 
@@ -147,8 +153,11 @@ The Home version comes with some cool looking robots,
 [ev3amz]: http://www.amazon.com/LEGO-6029291-Mindstorms-EV3-31313/dp/B00CWER3XY/?{{ site.amazontag }} "I get a small referral fee if you purchase it on Amazon through this link, so please consider doing so if you found this post useful"
 [rs-which]: http://robotsquare.com/2014/11/13/ev3-home-edition-or-ev3-education-edition/
 [rs-diff]: http://robotsquare.com/2013/11/25/difference-between-ev3-home-edition-and-education-ev3/
-[gsheet]:
-[brickowl-list]: 
+[gsheet]: https://docs.google.com/spreadsheets/d/12YGMiNx-greHYJuw5uDGsZPmEQLQxy0dLbN8s0iVKeI/edit?usp=sharing
+[brickowl-list]: http://www.brickowl.com/wishlist/view/philipmat/ev3-45544-45560-31313
 [ldd]: http://ldd.lego.com/en-us/
 [ldraw]: http://www.ldraw.org/
-[rebrick]: 
+[rebrick_31313]: http://rebrickable.com/sets/31313-1/mindstorms-ev3-ev3-2013 
+[rebrick_45544]: http://rebrickable.com/sets/45544-1/ev3-core-set-ev3-2013
+[rebrick_45560]: http://rebrickable.com/sets/45560-1/ev3-expansion-set-ev3-2013
+[bittner]: https://github.com/bittner/lego-mindstorms-ev3-comparison

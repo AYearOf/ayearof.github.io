@@ -74,7 +74,7 @@ The BrickWiki [explains it well][legoelementid]:
   So different LEGO Part Numbers for each combination, but with the same LEGO Design ID for each.
 
 The same applies to the EV3 sets.
-For example, the *Retail set* uses Element ID 4111998 for
+For example, the *Home set* uses Element ID 4111998 for
 [LEGO Part 32009 - Technic Beam 1 x 11.5 Double Bent Thick](http://rebrickable.com/parts/32009)
 while the *Education set* uses 4495412, 
 and the *Expansion set* uses 4234240 for the same.

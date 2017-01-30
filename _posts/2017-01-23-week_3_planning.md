@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week #2 Review, Week #3 Planning
+title: Week 2 Review, Week 3 Planning
 ---
 
 ## Week 2 - Retrospective

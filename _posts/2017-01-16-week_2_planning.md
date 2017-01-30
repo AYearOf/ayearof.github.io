@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week #1 Review, Week #2 Planning
+title: Week 1 Review, Week 2 Planning
 ---
 
 ## Week 1 - What Worked, What Didn't

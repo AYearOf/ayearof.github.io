@@ -69,7 +69,6 @@ and prepares the plans for the next one.
 * **Saturday**: 2 chapters of *DAUB* or *BoD*
 * **Sunday**: 2 chapters of *Right-Side*. Draw the 3 exercises to mark the start point.
 
-
 That's it!
 
 [rightside]: https://en.wikipedia.org/wiki/Betty_Edwards

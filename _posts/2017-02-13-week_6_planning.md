@@ -32,6 +32,3 @@ I need to find a way to (re-?) double my efforts and try to push,
 more so on weekends, through the *DAUB* book. I think I'm now
 getting to some interesting parts, so the excitement should carry
 me through these periods of lul.
-
-
-

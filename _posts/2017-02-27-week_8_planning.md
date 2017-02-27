@@ -40,7 +40,8 @@ incorporate them into my routine as following:
   This will teach me about discovering what is essential in a subject;
 - Saturday - *focus on what's hard*, focus on what I seem to have troubles with
   or what I seem to be avoiding, most likely it will be some human feature,
-  and luckily *Draw with Jazza* has some great tutorials on it;
+  and luckily *Draw with Jazza* has some great tutorials on it, or perhaps
+  it'll finally be the day I address the box-sphere exercise of *DrawABox*;
 - and finally *Sunday* I will attempt to *product a complete drawing*
   incorporating all the lessons of the week.
 

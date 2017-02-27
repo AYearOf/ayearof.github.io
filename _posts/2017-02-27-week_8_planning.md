@@ -12,6 +12,11 @@ made them (are they still mistakes in that case?)
 However, throughout the week my availability has been spotty.  
 Then during the weekend I completely dropped the ball.
 
+I don't think it was wasted, because I did work on
+[some](https://github.com/philipmat/pralinator.js)
+[interesting](https://github.com/philipmat/discogs-xml2db)
+projects, but nevertheless it's something I need to acknowledge.
+
 This seems to be occurring with some frequency, but I am not ready to make a
 decision about how to handle it.
 

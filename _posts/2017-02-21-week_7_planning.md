@@ -34,4 +34,3 @@ and notice where pseudo-continuities exist.
 
 Finally, the next chapter in *DAUB* deals with shading, so it should
 be easy to incorporate those exercises into my daily practice.
-

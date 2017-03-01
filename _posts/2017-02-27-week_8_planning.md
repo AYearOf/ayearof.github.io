@@ -9,6 +9,8 @@ I liked the progress I made this week; I definitely notice both the increased
 awareness in examining subjects, sometimes catching mistakes before I even
 made them (are they still mistakes in that case?)
 
+![Historic House in Houston](/images/historic_house.jpg)
+
 However, throughout the week my availability has been spotty.  
 Then during the weekend I completely dropped the ball.
 

@@ -23,7 +23,7 @@ decision about how to handle it.
 ## Week 7 - Shading; Reintroducing Exercises
 
 Last week I have watched an interesting video in the
-[Draw with Jazza] series on [how to practice][practice].
+[Draw with Jazza][jazza] series on [how to practice][practice].
 
 It breaks down drawing practice into several different areas and I intend to
 incorporate them into my routine as following:
@@ -34,7 +34,7 @@ incorporate them into my routine as following:
   during whatever windows of time I can find whatever I have managed to cover
   in that half an hour;
 - Wednesday - *deconstruction of photos*: take photos from the internet or
-  scenes from video games (building into my hobby from last year) and attempt
+  scenes from video games (building unto my hobby from last year) and attempt
   to break them down into simple geometric forms and/or outlines;
 - Thursday - *life drawing*: draw objects from my surroundings trying to
   transform their 3D nature into 2D, incorporating lessons from the past such
@@ -45,9 +45,10 @@ incorporate them into my routine as following:
   This will teach me about discovering what is essential in a subject;
 - Saturday - *focus on what's hard*, focus on what I seem to have troubles with
   or what I seem to be avoiding, most likely it will be some human feature,
-  and luckily *Draw with Jazza* has some great tutorials on it, or perhaps
+  and luckily [Draw with Jazza][jazza] has some great tutorials on it, or perhaps
   it'll finally be the day I address the box-sphere exercise of *DrawABox*;
 - and finally *Sunday* I will attempt to *product a complete drawing*
   incorporating all the lessons of the week.
 
 [practice]:https://youtu.be/Bu3ulVhO3z4
+[jazza]: https://www.youtube.com/user/DrawWithJazza

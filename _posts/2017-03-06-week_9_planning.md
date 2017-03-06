@@ -11,8 +11,7 @@ bore fruits. Except for two items, *reduced time repetition* and
 
 So this week I'll continue with the same approach.
 
-
-## Week 7 - Shading; Reintroducing Exercises
+## Week 9 - Shading; Reintroducing Exercises
 
 This is mostly a re-hash of last week's plan:
 

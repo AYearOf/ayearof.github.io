@@ -18,7 +18,7 @@ This is mostly a re-hash of last week's plan:
 - Tuesday - *tutorial marathon* with *DAUB*
 - Wednesday - *deconstruction of photos*;
 - Thursday - *life drawing*;
-- Friday - *reduce time repetition*;
+- Friday - *reduced time repetition*;
 - Saturday - *focus on what's hard*: will attempt to work on drawing
   human features;
 - and finally *Sunday* - *product a complete drawing*.

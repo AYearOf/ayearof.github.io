@@ -22,7 +22,7 @@ projects, but nevertheless it's something I need to acknowledge.
 This seems to be occurring with some frequency, but I am not ready to make a
 decision about how to handle it.
 
-## Week 7 - Shading; Reintroducing Exercises
+## Week 8 - Shading; Reintroducing Exercises
 
 Last week I have watched an interesting video in the
 [Draw with Jazza][jazza] series on [how to practice][practice].

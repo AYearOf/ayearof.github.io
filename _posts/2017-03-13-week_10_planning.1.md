@@ -19,7 +19,9 @@ The plan was pretty solid, but this week I want to try something
 different.
 
 I borrowed a book on drawing [Kawaii] characters,
-[![Manga for the Beginner Kawaii](https://images-na.ssl-images-amazon.com/images/I/51nOK0c3wTL.jpg)][book],
+
+[![Manga for the Beginner Kawaii](https://images-na.ssl-images-amazon.com/images/I/51nOK0c3wTL.jpg)][book]
+
 and I intend to spend each day covering at least a chapter, as following:
 
 * Tuesday: *Cute Proportions*, *Drawing the Head*, and *Eye Types*;

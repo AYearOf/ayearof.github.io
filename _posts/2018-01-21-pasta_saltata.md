@@ -37,5 +37,8 @@ Notes:
 * add less sauce next time (but it was so good!).
 * learn more about the spices of the region
   where the dish hails from.
+* Used another of Frontier's spices
+  [Organic Harissa](https://www.amazon.com/gp/product/B005WDVR0W/) which comes as a powder even though most
+  recipes seem to call for a paste.
 
 Definitely a remake.

@@ -23,12 +23,19 @@ to the dish.
 I tend to avoid mixing starches, but having both potatoes
 and pasta imparts an incredible texture to the dish.
 
-Note: add less sauce next time
 
+Given Ethiopia has it's own mix, the [Berbera](https://en.wikipedia.org/wiki/Berbere) --
+so well featured in the [Mesir Wat](/mesir_wat.html) --
 I also found the presence of Harissa in this dish a bit surprising.
 
 Harissa is typical of the North African region - in particular
 Tunisia where is considered the "national condiment" and of which
 Tunisia is also the largest exporter (some 22,000 tonnes in 2016).
+
+Notes:
+
+* add less sauce next time (but it was so good!).
+* learn more about the spices of the region
+  where the dish hails from.
 
 Definitely a remake.

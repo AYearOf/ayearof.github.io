@@ -33,6 +33,8 @@ Ingredients:
 * 1/4 cup fresh lemon juice for seasoning (optional)
 * 1/4 cup chopped fresh parsley or dill for seasoning (optional)
 
+Preparation:
+
 Unlike *stracciatella*, where the eggs are supposed to
 separate, here the eggs are blended to create a smooth,
 creamy texture. This is done by adding a little of the
@@ -65,3 +67,14 @@ Salt and ground black pepper to taste.
 Ladle into warmed bowls.  
 Garnish with chopped fresh parsley or snipped fresh dill.
 
+**Note**: a typical container of broth has 4 cups;
+I would suggest adjusting the recipe to use a full container.
+
+I used:
+
+* 4 cups broth
+* 3/4 cups rice
+* 3 eggs
+* 1/3 cup lemon juice
+
+The procedure remains the same and the garnish is "to taste" anyway.

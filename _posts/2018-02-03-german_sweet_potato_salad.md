@@ -14,7 +14,20 @@ which is made with a mix of sweet and regular potatoes.
 It was also interesting because the German potato salads I had in the past
 did not use mayo but vinegar, whereas this recipe does.
 
-It ended up being delicious as far as *taste*,
+Challenged by my family -- "this is not a German potato salad" -- I went on a bit of a research spree.
+
+Much like pizza or [(chicken) tikka masala](https://en.wikipedia.org/wiki/Chicken_tikka_masala),
+the precise ingredients seem to vary from family
+to family, or better said from Oma to Oma as
+almost all recipes seem to include some grandmother reference.
+
+Regionalism plays an important role. In the North of Germany, the salads
+are more commonly made with a creamy dressing, whereas South Germany favors
+a vinegar base; Southern German potato salads also tend to employ broth
+and bacon <sup>[<a href="note-1">1</a>,
+<a href="note-2">2</a>]</sup>
+
+Regardless, it ended up being delicious as far as *taste*,
 but a bit of disaster from a *presentation* perspective
 because I did not pay attention
 to the boiling potatoes and they ended up a too mushy.
@@ -59,3 +72,17 @@ If it takes no effort at all - they're overcooked. Welcome to my mashes Süßkar
 Refrigerate until needed - it tastes better cold.
 
 **Note**: probably heresy, but I would also add bacon to it, because... bacon.
+
+----
+References:
+
+<ol>
+<li>
+    <a name="note-1" />
+    <a href="http://germangirlinamerica.com/german-style-potato-salad-recipes/">The Ultimate Collection of German Style Potato Salad Recipes</a>
+</li>
+<li>
+    <a name="note-2"/>
+    <a href="https://www.quick-german-recipes.com/hot-german-potato-salad.html">Rose's Hot German Potato Salad</a>
+</li>
+</ul>

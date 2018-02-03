@@ -39,7 +39,7 @@ Ingredients:
 * 1/2 cup chopped yellow onion
 * 2 large garlic cloves, minced
 * 1 bay leaf
-* 2 bottled roasted piquillo peppers 
+* 2 bottled roasted piquillo peppers
   or 1 bottled roasted red bell pepper,
   drained and chopped (1/2 cup)
 * 1.5 cups unsalted tomato puree (fresh or canned)
@@ -92,4 +92,3 @@ Preparation:
 * Iron: 2.2mg
 * Sodium 275mg;
 * Calcium 29mg
-

@@ -35,7 +35,7 @@ Ingredients
 * 1 large garlic clove, minced
 * 1/2 pound lean ground lamb
 * 1/2 pound ground sirloin
-* 3 (14.5-ounce) cans unsalted diced tomatoes, undrained
+* 3 (14.5-ounce) cans unsalted diced tomatoes, un-drained
 * 1 teaspoon dried oregano teaspoon salt, divided
 * 1/2 teaspoon ground cinnamon
 * 2 tablespoons butter

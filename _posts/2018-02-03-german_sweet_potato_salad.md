@@ -85,4 +85,4 @@ References:
     <a name="note-2"/>
     <a href="https://www.quick-german-recipes.com/hot-german-potato-salad.html">Rose's Hot German Potato Salad</a>
 </li>
-</ul>
+</ol>

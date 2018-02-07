@@ -66,7 +66,7 @@ Nutritional information:
    I don't know if that had any effect on the final result.
 2. I still am trying to master cooking meat.
    I was so afraid of it being uncooked, that I think
-   I cooked it too much. The patties ended up dry.
+   I cooked it too much. The patties ended up dry - very dry.
    I'm not sure I know how to best gauge when they're done,
    but it didn't feel as if the *10 minutes* mentioned
    in the recipe were enough.

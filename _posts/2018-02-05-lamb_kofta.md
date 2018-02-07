@@ -41,7 +41,7 @@ Serves about 4. Takes about 20-30 minutes to prepare
 ### Preparation
 
 1. Cook boil-in-bag jasmine rice and saffron in boiling water according to package directions.
-  Drain; fluff rice with a fork. Sprinkle with green onions. 
+  Drain; fluff rice with a fork. Sprinkle with green onions.
 2. While rice cooks, combine cilantro and next 9 ingredients (through lamb);
    shape into 12 oblong patties (*use a little less than a quarter cup of the mix for each patty*).
 3. Heat a large nonstick skillet over medium-high heat.

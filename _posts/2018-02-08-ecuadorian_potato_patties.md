@@ -3,7 +3,20 @@ layout: post
 title: Ecuadorian Potato and Cheese Patties (Llapingachos Ecuatorianos)
 ---
 
-An easy to make meal, these potatoes patties are quite delicious.
+Llapingachos are cheese-stuffed fried potato cakes/patties that originated in Ecuador.
+
+They are similar to arepas - a Colombian specialty - and they are quite easy to make
+all while being a delicious dish.
+
+While they are usually served with peanut sauce, they can be just as well
+accompanied by chorizo, onion and tomato salad (pickled onions in particular),
+avocado slices, or *[aji criollo](https://www.laylita.com/recipes/aji-criollo-or-hot-sauce/)* aka Ecuadorian hot sauce.
+
+The version I made was served with a simple cubed tomato and julienne onion
+salad, with a bit of jalapenos thrown in to combat the sweetness of the potatoes
+and cheese.
+
+![Ecuadorian Potato and Cheese Patties](/assets/2018-potato_patties.jpg)
 
 After making it I see it as a basic for continuous improvements and
 I already have a couple of these "improvements" in mind:
@@ -12,10 +25,16 @@ I already have a couple of these "improvements" in mind:
 * using both regular and purple potatoes in the making
 * adding various spices (curry?! OMG!!)
 * adding other vegetables - maybe zucchini?
-
-![Ecuadorian Potato and Cheese Patties](/assets/2018-ecuadorian_potato_patties.jpg)
+* definitely trying it with [peanut sauce](https://www.laylita.com/recipes/salsa-de-mani-or-peanut-sauce/)
+  and with
+  [aji criollo](https://www.laylita.com/recipes/aji-criollo-or-hot-sauce/)
 
 ## Recipe
+
+The recipe comes from the
+[Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy](https://www.amazon.com/dp/0848739981/ref=cm_sw_r_cp_api_rVDBAbKBFPNH3)
+book, but I also would recommend [Laylita's version](https://www.laylita.com/recipes/llapingachos-or-stuffed-potato-patties/)
+which mentions adding a fried egg.
 
 Serves 6 (*barely 4 if you have other things on the table*).
 
@@ -48,9 +67,10 @@ the potatoes alone took me 10 minutes.
    Flatten balls into h-inch-thick patties (about 3-inch diameter).  
    Place on a baking sheet; cover and refrigerate 20 minutes or until firm.
 3. Heat large nonstick skillet over medium heat.  
-   Add oil to pan; swirl to coat.  
+   Add oil to pan; swirl to coat. (*don't - just do it without oil in
+   a *hot* non-stick pan or griddle because it helps maintain the integrity of the patty*)
    Place patties in pan; cook **5 minutes** or until bottoms are browned.  
-   Turn patties; cook 3 minutes.  
+   Turn patties; cook **3 minutes**.  
 4. Top patties with tomato and red onion.  
 
 Serves 6 (serving size: 1 patty, 2 tablespoons tomato, and 4 teaspoons red onion)

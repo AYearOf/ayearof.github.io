@@ -1,0 +1,21 @@
+{
+	// Place your snippets for Markdown here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	"Cooking Light link": {
+		"prefix": "cookinglight",
+		"body": [
+			"[Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy](https://www.amazon.com/dp/0848739981/ref=cm_sw_r_cp_api_rVDBAbKBFPNH3)"
+		],
+		"description": "Insert link to Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy"
+    },
+	"Link to asset": {
+		"prefix": "asset",
+		"body": [
+			"![${1:alt_text}](/assets/2018-${2:name}.jpg)$0"
+		],
+		"description": "Link to an asset"
+    }
+}

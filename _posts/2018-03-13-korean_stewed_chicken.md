@@ -22,7 +22,7 @@ at the beginning of the cooking phase.
 ### Ingredients
 
 * 1/3 cup gochujang (Korean Chile paste) (*so delicious I've been eating it on bread*)
-* 1/4 cup (1/2-inch) slices green onion bottoms 
+* 1/4 cup (1/2-inch) slices green onion bottoms
 * 2 1/2 tablespoons lower-sodium soy sauce
 * 2 tablespoons minced fresh garlic (*can add more, but it'll be even spicier*)
 * 2 tablespoons minced peeled fresh ginger

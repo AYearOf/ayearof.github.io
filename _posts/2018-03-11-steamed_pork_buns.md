@@ -25,7 +25,7 @@ the time required to steam them.
 
 ### Ingredients
 
-Filling: 
+Filling:
 
 * 1/2 teaspoon five-spice powder
 * 1 lbs pork tenderloin, trimmed
@@ -39,7 +39,7 @@ Filling:
 * 1 teaspoon minced fresh garlic (*I'd use double, at least*)
 * 1/4 teaspoon salt
 
-Dough: 
+Dough:
 
 * 1 cup warm water (100F to 110F)
 * 3 tablespoons sugar
@@ -61,14 +61,12 @@ Dough:
   Place pork in a medium bowl.  
   Add onions and next 7 ingredients (through 1/4 teaspoon salt); stir well to combine.  
   Cover and refrigerate.
-3. To prepare dough, combine 1 cup warm water, sugar, and yeast in a large bowl; 
-let stand 5 minutes.
+3. To prepare dough, combine 1 cup warm water, sugar, and yeast in a large bowl; let stand 5 minutes.
 4. Weigh or lightly spoon flour into dry measuring cups; level with a knife.  
   Add flour, oil, and 1/4 teaspoon salt to yeast mixture; stir until a soft dough forms.  
   Turn dough out onto a lightly floured surface.  
   Knead until smooth and elastic (about **10 minutes**).  
-  Place dough in a large bowl coated with cooking spray, turning to 
-coat top.  
+  Place dough in a large bowl coated with cooking spray, turning to coat top.  
   Cover and let rise in a warm place (85F - *can use proofing drawer or oven*), free from drafts, **1 hour** or until doubled in size.
   (Gently press two fingers into dough. If indentation remains, dough has risen enough.)
 5. Punch dough down; let rest **5 minutes**.  
@@ -79,9 +77,9 @@ coat top.
   Place 1/4 cup filling in center of dough circle.  
   Bring up sides to cover filling and meet on top.  
   Pinch and seal closed with a twist.  
-  Repeat procedure with remaining dough balls and filling. 
+  Repeat procedure with remaining dough balls and filling.
 7. Arrange 5 buns, seam sides down, 1 inch apart, in each tier of a 2-tiered bamboo steamer.  
-  Stack tiers; cover with lid. 
+  Stack tiers; cover with lid.
 8. Add water to a large skillet to a depth of 1 inch; bring to a boil over medium-high heat.  
   Place steamer in pan; steam **15 minutes** or until puffed and set.  
   Cool **10 minutes before serving**.

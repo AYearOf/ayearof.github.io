@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peruvian Sarsa Salad
+title: Cycle 3 - South America - Peruvian Sarsa Salad
 ---
 
 This is one of the more surprising salads I had. It's full of fiber, filling and the lemon juice makes it always feel fresh.

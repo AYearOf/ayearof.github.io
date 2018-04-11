@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kung Pao Taco
+title: Cycle 4 - East Asia & Indian - Kung Pao Taco
 ---
 
 The following recipe is proof that you can wrap anything in a tortilla

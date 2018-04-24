@@ -80,7 +80,7 @@ Hands-on time is about an hour, with a total of slightly over 2 hours of cooking
   Stir in 1 1/2 teaspoons salt, bacon (*extra grease*), garlic, and broth.
   Shape plantain mixture into 24 (1/2-inch-thick) patties.
 3. Heat a large nonstick skillet over medium-high heat.  
-  Add 2 tablesppons oil to pan; swirl to coat.  
+  Add 2 tablespoons oil to pan; swirl to coat.  
   Add 8 patties, cook 3 minutes on each side or until browned.
   Remove from pan.
   Repeat procedure for the remaining patties.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indonesian Stir-Fried Noodles (Bakmi Goreng)
+title: Cycle 6 South-east Asia - Indonesian Stir-Fried Noodles (Bakmi Goreng)
 ---
 
 I almost don't want to post a photo of this meal because I botched it pretty badly.

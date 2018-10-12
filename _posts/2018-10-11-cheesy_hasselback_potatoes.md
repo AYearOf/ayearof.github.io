@@ -56,18 +56,18 @@ I like bacon.
 ### Preparation
 
 1. Preheat the oven to 450F.
-2. Don't peel the potato - this is important - we want that skin.  
-The trick here is to place two wooden chopsticks
-on either side of the potato,
-as we make cuts every 1/8-inch from one end to another.  
-The chopsticks are going to keep the knife from going
-all the way through and thus keep the bottom of
-the potato slices connected.  
+2. Don't peel the potato -- this is important -- we want that skin.  
+  The trick here is to place two wooden chopsticks
+  on either side of the potato,
+  as we make cuts every 1/8-inch from one end to another.  
+  The chopsticks are going to keep the knife from going
+  all the way through and thus keep the bottom of
+  the potato slices connected.  
 3. Put the potatoes on a baking sheet
-and brush them with the melted butter.  
-I don't know if necessary, but I tried
-to get the butter into the cuts as well.  
-Season with salt and pepper.
+  and brush them with the melted butter.  
+  I don't know if necessary, but I tried
+  to get the butter into the cuts as well.  
+  Season with salt and pepper.
 4. Bake for 55-60 minutes (until tender).
 5. Remove from the oven, but don't turn the oven off.  
   Insert the 1-inch squares into the cuts.  

@@ -20,6 +20,7 @@
 			"layout: post",
 			"title: ${1:Post_title}",
       "---"
-		]
+		],
+		"description": "Front-matter for post"
 	}
 }

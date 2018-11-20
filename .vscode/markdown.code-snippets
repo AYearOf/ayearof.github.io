@@ -1,0 +1,26 @@
+{
+	"Cooking Light link": {
+		"prefix": "cookinglight",
+		"body": [
+			"[Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy](https://www.amazon.com/dp/0848739981/ref=cm_sw_r_cp_api_rVDBAbKBFPNH3)"
+		],
+		"description": "Insert link to Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy"
+    },
+	"Link to asset": {
+		"prefix": "asset",
+		"body": [
+			"![${1:alt_text}](/assets/2018-${2:name}.jpg)$0"
+		],
+		"description": "Link to an asset"
+		},
+	"Front-matter": {
+		"prefix": "frontmatter",
+		"body": [
+			"---",
+			"layout: post",
+			"title: ${1:Post_title}",
+      "---"
+		],
+		"description": "Front-matter for post"
+	}
+}

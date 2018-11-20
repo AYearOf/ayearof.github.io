@@ -69,7 +69,6 @@ Serve over rice.
 
 Serves 4 (serving size: 1.25 cups of beef mixture and 1/2 cup cooked rice)
 
-
 * calories 349;
 * fat 11.5 g;
 * protein 257g;

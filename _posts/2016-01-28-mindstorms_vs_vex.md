@@ -19,11 +19,19 @@ and RaspberryPi -- you can build so much more than
 robots with them, but VEX is serious about their robots.
 
 If you would like to know more details,
-and why the EV3 was a better choice for me
+and why the EV3 was a better choice *for me in 2016*
 (and might be for you too) read on. If not, at least
 read [Damien Kee's comparison][ev3vsiq] for a 20,000-foot 
 overview.
 
+**2017**: Over the past year and a half, I've seen LEGO commitment
+to Mindstorm dwindling, while VEX has been strong in their push
+with their platform, becoming, I think, the *de facto*
+starter platform for beginner robotics.
+
+On my end, if I were to do this all over again and if I were to
+have a horizon longer than a year, I'd definitely be leaning
+the VEX direction. 
 
 ## Set Contents
 
@@ -498,9 +506,13 @@ part of your robot: by far the more important is the programming
 part, but being able to design and share your designs with others
 is something communities thrive on.
 
-To be honest, in terms of features and pricing, EV3 has the upper hand.  
+**2016**: To be honest, in terms of features and pricing, EV3 has the upper hand.  
 By a wide margin.
 
+**2017**: With Vex offering the software for free as of 2017,
+I cannot state Mindstorm's superiority anymore in this aspect.  
+Quite the contrary, I believe now that Vex is better positioned
+as a long-term platform, particularly in terms of software.
 
 ### Programming
 
@@ -522,11 +534,15 @@ although the latter has some limitations in what blocks it can use.
 The apps, in all their variants contain both step-by-step building 
 instructions, as well as the programming environment. 
 
-The VEX IQ has three options, *none which are free*,
+**2016 - See note below for 2017**: The VEX IQ has three options, *none which are free*,
 from $50 for [ModKit][mk], a Scratch-like visual language (Windows & OS X),
 to $75 for [easyC][easyc], which is a more typical programming language (Windows only),
 to $80 for [RobotC for VEX][rc], which supports both approaches, 
-but it's also Windows only. 
+but it's also Windows only.
+
+**2017**: As of 2017 Vex offers the software *free with purchase*,
+which makes considerably easier to recommend over Mindstorm's
+more basic software.
 
 Due to the considerably larger memory of the EV3 brick and the microSD port,
 it's possible to actually run a full-blown distribution of Linux
@@ -540,7 +556,7 @@ going back to the NXT days; and there's even a [RobotC version for EV3](http://w
 Again, you have a full-blown version of Linux, 
 so pretty much anything you can do on Linux, you can do on the brick.
 
-One interesting sofware component that the EV3 set comes with,
+One interesting software component that the EV3 set comes with,
 although only in the Education set, is a datalog block.
 
 This allows the brick to record high-sample sensor data, for example

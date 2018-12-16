@@ -82,8 +82,7 @@ container in the fridge for a month or perhaps even more.
    Add milk and butter to pan; cook **3 minutes** or until thoroughly heated.
 4. Serve with yogurt and cilantro.
 
-Serves 8 (serving size: about 2/3 cup soup, 1 teaspoon yogurt, and 1 1/2 teaspoons cilantro) 
-
+Serves 8 (serving size: about 2/3 cup soup, 1 teaspoon yogurt, and 1 1/2 teaspoons cilantro)
 
 * calories 91;
 * fat 2.3g (sat 1.3g, mono 0.6g, poly og);

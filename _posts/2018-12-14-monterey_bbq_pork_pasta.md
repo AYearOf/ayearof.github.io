@@ -64,6 +64,5 @@ add some marinara sauce and/or some more pasta.
 
 Serve garnished with chives or green onions. Extra BBQ
 sauce as needed or maybe a sprinkle of balsamic vinegar.
-   
 
 [mel]: https://www.melskitchencafe.com/monterey-bbq-chicken-pasta/

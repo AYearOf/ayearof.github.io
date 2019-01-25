@@ -58,7 +58,5 @@ inspirational:
 * Chris Guillebeau's "The $100 Startup";
 * currently reading Eric Ries's "The Lean Startup".
 
-
-
 [ten]: https://www.reddit.com/r/minimalism/comments/abuz4j/2019_promise_getting_rid_of_10_possessionsmonth/
 [goodbye]: https://www.amazon.com/Goodbye-Things-New-Japanese-Minimalism/dp/0393609030

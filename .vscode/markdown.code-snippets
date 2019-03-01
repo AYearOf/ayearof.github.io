@@ -5,11 +5,16 @@
 			"[Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy](https://www.amazon.com/dp/0848739981/ref=cm_sw_r_cp_api_rVDBAbKBFPNH3)"
 		],
 		"description": "Insert link to Cooking Light Global Kitchen: The World's Most Delicious Food Made Easy"
-    },
+		},
+	"Goodbye, Things link": {
+		"prefix": "goodbye_things",
+		"body": "[Goodbye, Things](https://www.amazon.com/Goodbye-Things-New-Japanese-Minimalism/dp/0393609030)",
+		"description": "Link to the Goodbye, Things book"
+	},
 	"Link to asset": {
 		"prefix": "asset",
 		"body": [
-			"![${1:alt_text}](/assets/2018-${2:name}.jpg)$0"
+			"![${1:alt_text}](/assets/2019-${2:name}.jpg)$0"
 		],
 		"description": "Link to an asset"
 		},

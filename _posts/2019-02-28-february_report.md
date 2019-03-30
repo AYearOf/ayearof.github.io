@@ -39,7 +39,7 @@ inspirational:
   model][success]: Simple, Unexpected, Concrete, Credible,
   and Emotional Stories;
 * Steve Blank's "Four Steps to the Epiphany" is the precursor
-  to "The Lean Startup" methodoly;
+  to "The Lean Startup" methodology;
 * Tim Feriss's "The Four Hour Work-week", even if a bit outdated,
   needs little introduction;
 * Ryan Holiday's "Ego Is The Enemy" on the other hand feels like

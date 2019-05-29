@@ -15,7 +15,7 @@ starting at the shallow end and working towards
 the final goal.
 
 Perhaps a slower, and a more mindful way to think about it
-is to looking at what purpose the new item serves:
+is to look at what purpose the new item serves:
 
 * it might be replacing an older item that got used a lot ("one in, one out" rule);
 * it might be a long want that can finally be met - maybe a new hobby;

@@ -11,20 +11,20 @@ for failure.
 
 Reading happened:
 
-* Stephen King's *On Writing*
+* [Stephen King's *On Writing*][on_writing]
   -- both amusing in its anecdotes and instructional in its advice;
-* Paulette Perhach's *Welcome to the Writer's Life*
+* [Paulette Perhach's *Welcome to the Writer's Life*][writers_life]
   -- more prescriptive and offering a trove of guidance and resources;
-* Francine Prose's *Reading Like a Writer*
+* [Francine Prose's *Reading Like a Writer*][reading_writer]
   -- because reading is important to a writer,
   it's worth learning *how* to read as well;
-* Thomas C Foster's *How to Read Literature Like a Professor*
+* [Thomas C Foster's *How to Read Literature Like a Professor*][reading_professor]
   -- before finishing the book I realized this was the "for Kids* edition;
   just the same, it was really useful to learn about various story sources,
   ideas, and literary wells.
 
 In in all, I also managed to find time to write a short,
-1,000-word story. *(It's not much but it's honest work meme)G*
+1,000-word story. *(It's not much but it's honest work meme)*
 
 It was ... unexpectedly difficult. It was effectively fan-fic,
 in a way, but I combined two ideas that were very dear to my heart.
@@ -54,3 +54,8 @@ programmatic approach to this research that would allow me to create a
 repeatable solution in order to be able to explore niches quickly.
 Or at least quicker.  
 February will need to pick up the pace on research.
+
+[on_writing]: https://www.goodreads.com/book/show/10569.On_Writing
+[reading_writer]: https://www.goodreads.com/book/show/39934.Reading_Like_a_Writer
+[reading_professor]: https://www.goodreads.com/book/show/39933.How_to_Read_Literature_Like_a_Professor
+[writers_life]: https://www.goodreads.com/book/show/39711925-welcome-to-the-writer-s-life

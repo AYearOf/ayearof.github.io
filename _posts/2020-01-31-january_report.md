@@ -55,7 +55,7 @@ repeatable solution in order to be able to explore niches quickly.
 Or at least quicker.  
 February will need to pick up the pace on research.
 
-[on_writing]: https://www.goodreads.com/book/show/10569.On_Writing
-[reading_writer]: https://www.goodreads.com/book/show/39934.Reading_Like_a_Writer
-[reading_professor]: https://www.goodreads.com/book/show/39933.How_to_Read_Literature_Like_a_Professor
-[writers_life]: https://www.goodreads.com/book/show/39711925-welcome-to-the-writer-s-life
+[on_writing]: https://amzn.to/3anYL6p
+[reading_writer]: https://amzn.to/38kWeZ8
+[reading_professor]: https://amzn.to/2TwDf8P
+[writers_life]: https://amzn.to/32RvM8A

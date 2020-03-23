@@ -18,6 +18,7 @@ Want:
 - [J. Herbin 1670 Anniversary Inks Emerald of Chivor](https://amzn.to/32EfSyj)
 - [Jacques Herbin 1798 Kyanite du Nepal (Blue/Turquoise)](https://amzn.to/3aiZk14)
 - [PILOT Namiki Standard Fountain Pen Ink, Blue, 60ml Bottle](https://amzn.to/2vxNUYN)
+- [Cross Converter 8756](https://amzn.to/3bgVjL6)
 
 ---
 

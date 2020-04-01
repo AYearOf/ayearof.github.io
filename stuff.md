@@ -40,3 +40,5 @@ Have and Use:
 - []()
 - []()
 -->
+
+<small>(Note: As an Amazon Associate I earn from qualifying purchases.)</small>
